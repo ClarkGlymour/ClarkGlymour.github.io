@@ -1,0 +1,17 @@
+[
+    {
+      "title": "Causal Inference in Neuroimaging",
+      "authors": "Sanchez-Romero R, Ramsey JD, et al.",
+      "year": 2023,
+      "link": "https://doi.org/10.1016/j.neuroimage.2023.119302",
+      "pdf": "papers/causal_inference_neuroimaging.pdf",
+      "abstract": "This paper explores applications of causal discovery algorithms in neuroimaging..."
+    },
+    {
+      "title": "High-definition tDCS in Mice",
+      "authors": "Sanchez-Romero R, Kording KP, et al.",
+      "year": 2024,
+      "link": "https://arxiv.org/abs/2403.12345",
+      "abstract": "We present an EFMouse toolbox to model electric fields in mice..."
+    }
+  ]

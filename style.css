@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+  }
+  .entry {
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+  }
+  .entry h3 {
+    margin: 0;
+  }
+  .abstract {
+    margin-top: 10px;
+    color: #444;
+  }
+  button {
+    margin-left: 10px;
+    cursor: pointer;
+  }
