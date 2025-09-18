@@ -142,7 +142,7 @@
 	{
 		"id": "http://zotero.org/users/5856333/items/RBX9LZDI",
 		"type": "article-journal",
-		"abstract": "Reverse inference in cognitive neuropsychology has been characterized as inference to ‘psychological processes’ from ‘patterns of activation’ revealed by functional magnetic resonance or other scanning techniques. Several arguments have been provided against the possibility. Focusing on Machery’s ([2014]) presentation, we attempt to clarify the issues, rebut the impossibility arguments, and propose and illustrate a strategy for reverse inference. 1.  The Problem of Reverse Inference in Cognitive Neuropsychology2.  The Arguments2.1.  The anti-Bayesian argument3.  Patterns of Activation4.  Reverse Inference Practiced5.  Seek and Ye Shall Find, Maybe6.  Conclusion",
+		"abstract": "Reverse inference in cognitive neuropsychology has been characterized as inference to ‘psychological processes’ from ‘patterns of activation’ revealed by functional magnetic resonance or other scanning techniques. Several arguments have been provided against the possibility. Focusing on Machery’s ([2014]) presentation, we attempt to clarify the issues, rebut the impossibility arguments, and propose and illustrate a strategy for reverse inference.",
 		"container-title": "The British Journal for the Philosophy of Science",
 		"DOI": "10.1093/bjps/axv019",
 		"ISSN": "0007-0882",
@@ -277,7 +277,7 @@
 	{
 		"id": "http://zotero.org/users/5856333/items/K6SPJKYN",
 		"type": "article-journal",
-		"abstract": "Recent literature in philosophy of science has addressed purported notions of explanatory virtues—‘explanatory power’, ‘unification’, and ‘coherence’. In each case, a probabilistic relation between a theory and data is said to measure the power of an explanation, or degree of unification, or degree of coherence. This essay argues that the measures do not capture cases that are paradigms of scientific explanation, that the available psychological evidence indicates that the measures do not capture judgements of explanatory power, and, finally, that the measures do not provide useful methods for selecting hypotheses. 1. Introduction2. Some Proposed Measures of Explanatory Virtues3. Descriptive Inadequacy  3.1 Excellent but false explanations  3.2 Causal explanation4. Psychological Inadequacy5. Finding the Truth6. Conclusion",
+		"abstract": "Recent literature in philosophy of science has addressed purported notions of explanatory virtues—‘explanatory power’, ‘unification’, and ‘coherence’. In each case, a probabilistic relation between a theory and data is said to measure the power of an explanation, or degree of unification, or degree of coherence. This essay argues that the measures do not capture cases that are paradigms of scientific explanation, that the available psychological evidence indicates that the measures do not capture judgements of explanatory power, and, finally, that the measures do not provide useful methods for selecting hypotheses.",
 		"container-title": "The British Journal for the Philosophy of Science",
 		"DOI": "10.1093/bjps/axt051",
 		"ISSN": "0007-0882",
@@ -308,6 +308,94 @@
 				[
 					"2015",
 					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/AG3ZXXN3",
+		"type": "article-journal",
+		"abstract": "Neumann et al. (2010) aim to find directed graphical representations of the independence and dependence relations among activities in brain regions by applying a search procedure to merged fMRI activity records from a large number of contrasts obtained under a variety of conditions. To that end, Neumann et al., obtain three graphical models, justifying their search procedure with simulations that find that merging the data sampled from probability distributions characterized by two distinct Bayes net graphs results in a graphical object that combines the edges in the individual graphs. We argue that the graphical objects they obtain cannot be interpreted as representations of conditional independence and dependence relations among localized neural activities; specifically, directed edges and directed pathways in their graphical results may be artifacts of the manner in which separate studies are combined in the meta-analytic procedure. With a larger simulation study, we argue that their simulation results with combined data sets are an artifact of their choice of examples. We provide sufficient conditions and necessary conditions for the merger of two or more probability distributions, each characterized by the Markov equivalence class of a directed acyclic graph, to be describable by a Markov equivalence class whose edges are a union of those for the individual distributions. Contrary to Neumann et al., we argue that the scientific value of searches for network representations from imaging data lies in attempting to characterize large scaled neural mechanisms, and we suggest several alternative strategies for combining data from multiple experiments.",
+		"container-title": "NeuroImage",
+		"DOI": "10.1016/j.neuroimage.2010.07.065",
+		"ISSN": "1053-8119",
+		"issue": "2",
+		"journalAbbreviation": "NeuroImage",
+		"page": "323-330",
+		"source": "ScienceDirect",
+		"title": "On meta-analyses of imaging data and the mixture of records",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S1053811910010578",
+		"volume": "57",
+		"author": [
+			{
+				"family": "Ramsey",
+				"given": "J. D."
+			},
+			{
+				"family": "Spirtes",
+				"given": "P."
+			},
+			{
+				"family": "Glymour",
+				"given": "C."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					7,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/4CV6ZKRN",
+		"type": "paper-conference",
+		"abstract": "In many domains, data are distributed among datasets that share only some variables; other recorded variables may occur in only one dataset. There are several asymptotically correct, informative algorithms that search for causal information given a single dataset, even with missing values and hidden variables. There are, however, no such reliable procedures for distributed data with overlapping variables, and only a single heuristic procedure (Structural EM). This paper describes an asymptotically correct procedure, ION, that provides all the information about structure obtainable from the marginal independence relations. Using simulated and real data, the accuracy of ION is compared with that of Structural EM, and with inference on complete, unified data.",
+		"container-title": "Advances in Neural Information Processing Systems",
+		"publisher": "Curran Associates, Inc.",
+		"source": "Neural Information Processing Systems",
+		"title": "Integrating Locally Learned Causal Structures with Overlapping Variables",
+		"URL": "https://proceedings.neurips.cc/paper/2008/hash/37bc2f75bf1bcfe8450a1a41c200364c-Abstract.html",
+		"volume": "21",
+		"author": [
+			{
+				"family": "Danks",
+				"given": "David"
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			},
+			{
+				"family": "Tillman",
+				"given": "Robert"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
 				]
 			]
 		}
