@@ -57,5 +57,48 @@
 				]
 			]
 		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/BNNMMF42",
+		"type": "article-journal",
+		"abstract": "In an essay recently published in this journal, Branden Fitelson argues that a variant of Miller's argument for the language dependence of the accuracy of predictions can be applied to Joyce's notion of accuracy of credences formulated in terms of scoring rules, resulting in a general potential problem for Joyce's argument for probabilism. We argue that no relevant problem of the sort Fitelson supposes arises since his main theorem and his supporting arguments presuppose the validity of nonlinear transformations of credence functions that Joyce's theory, charitably construed, would identify as invalid on the basis of the principle of simple dominance.",
+		"container-title": "Philosophy of Science",
+		"DOI": "10.1086/667997",
+		"ISSN": "0031-8248, 1539-767X",
+		"issue": "4",
+		"language": "en",
+		"page": "561-574",
+		"source": "Cambridge University Press",
+		"title": "What Language Dependence Problem? A Reply for Joyce to Fitelson on Joyce",
+		"title-short": "What Language Dependence Problem?",
+		"URL": "https://www.cambridge.org/core/journals/philosophy-of-science/article/what-language-dependence-problem-a-reply-for-joyce-to-fitelson-on-joyce/31B3C59CF9F5AC47F028D8D77F540416",
+		"volume": "79",
+		"author": [
+			{
+				"family": "Pedersen",
+				"given": "Arthur Paul"
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					10
+				]
+			]
+		}
 	}
 ]
