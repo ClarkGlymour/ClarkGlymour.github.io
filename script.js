@@ -1,7 +1,7 @@
 fetch("bibliography.json")
   .then(response => response.json())
   .then(data => {
-    // Map JSON category values to the IDs of your <div>s
+    // Map category names → div IDs
     const categoryMap = {
       "Statistics and Computer Science": "statcs",
       "Physics": "physics",
@@ -16,33 +16,56 @@ fetch("bibliography.json")
     };
 
     data.forEach(entry => {
+      // --- Transform CSL-JSON into simplified fields ---
+      const title = entry.title || "";
+
+      const authors = entry.author
+        ? entry.author.map(a => `${a.given || ""} ${a.family || ""}`).join(", ")
+        : "";
+
+      const year = entry.issued && entry.issued["date-parts"]
+        ? entry.issued["date-parts"][0][0]
+        : "";
+
+      const link = entry.DOI
+        ? `https://doi.org/${entry.DOI}`
+        : (entry.URL || "");
+
+      const pdf = entry.pdf || "";       // optional
+      const abstract = entry.abstract || "";
+      const category = entry.category || "Miscellaneous";
+
+      // --- Build the HTML entry ---
       const div = document.createElement("div");
       div.className = "entry";
 
       div.innerHTML = `
-        <h3>${entry.title} (${entry.year})</h3>
-        <p><em>${entry.authors}</em></p>
+        <h3>${title} (${year})</h3>
+        <p><em>${authors}</em></p>
         <p>
-          <a href="${entry.link}" target="_blank">[Link]</a>
-          ${entry.pdf ? `<a href="${entry.pdf}" target="_blank">[PDF]</a>` : ""}
-          <button class="abstract-btn">Show Abstract</button>
+          ${link ? `<a href="${link}" target="_blank">[Link]</a>` : ""}
+          ${pdf ? `<a href="${pdf}" target="_blank">[PDF]</a>` : ""}
+          ${abstract ? `<button class="abstract-btn">Show Abstract</button>` : ""}
         </p>
-        <p class="abstract" style="display:none;">${entry.abstract}</p>
+        ${abstract ? `<p class="abstract" style="display:none;">${abstract}</p>` : ""}
       `;
 
-      // Abstract toggle
-      div.querySelector(".abstract-btn").addEventListener("click", e => {
-        const abs = div.querySelector(".abstract");
-        abs.style.display = abs.style.display === "none" ? "block" : "none";
-        e.target.textContent = abs.style.display === "none" ? "Show Abstract" : "Hide Abstract";
-      });
+      // --- Abstract toggle ---
+      const btn = div.querySelector(".abstract-btn");
+      if (btn) {
+        btn.addEventListener("click", e => {
+          const abs = div.querySelector(".abstract");
+          abs.style.display = abs.style.display === "none" ? "block" : "none";
+          e.target.textContent = abs.style.display === "none" ? "Show Abstract" : "Hide Abstract";
+        });
+      }
 
-      // Find the right section container
-      const sectionId = categoryMap[entry.category];
-      if (sectionId) {
+      // --- Place entry into correct section (or fallback) ---
+      const sectionId = categoryMap[category] || "miscellaneous";
+      if (document.getElementById(sectionId)) {
         document.getElementById(sectionId).appendChild(div);
       } else {
-        console.warn(`No section defined for category: ${entry.category}`);
+        console.warn(`No section found for category: ${category}`);
       }
     });
   });
