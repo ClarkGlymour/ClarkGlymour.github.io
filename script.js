@@ -5,11 +5,24 @@ function loadBibliography(jsonFile, containerId) {
     .then(data => {
       data.forEach(entry => {
         const title = entry.title || "";
-        const authors = entry.authors || "";
-        const year = entry.year || "";
         const link = entry.link || "";
         //const pdf = entry.pdf || "";
         const abstract = entry.abstract || "";
+
+        // Authors (handle both CSL-JSON and plain string)
+        let authors = "";
+        if (Array.isArray(entry.author)) {
+          authors = entry.author.map(a => `${a.given || ""} ${a.family || ""}`.trim()).join(", ");
+        } else if (entry.authors) {
+          authors = entry.authors;
+        }
+
+        let year = "";
+        if (entry.year) {
+          year = entry.year; // if someone already stored it directly
+        } else if (entry.issued && entry.issued["date-parts"]) {
+          year = entry.issued["date-parts"][0][0]; // first element of first array
+        }
 
         const div = document.createElement("div");
         div.className = "entry";
