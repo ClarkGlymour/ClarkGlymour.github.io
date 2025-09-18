@@ -399,5 +399,749 @@
 				]
 			]
 		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/6FCU2ATU",
+		"type": "article-journal",
+		"abstract": "Pointwise consistent, feasible procedures for estimating\ncontemporaneous linear causal structure from time series data have\nbeen developed using multiple conditional independence tests, but no\nsuch procedures are available for non-linear systems.  We describe a\nfeasible procedure for learning a class of non-linear time series\nstructures, which we call additive non-linear time series. We show\nthat for data generated from stationary models of this type, two\nclasses of conditional independence relations among time series\nvariables and their lags can be tested efficiently and consistently\nusing tests based on additive model regression. Combining results of\nstatistical tests for these two classes of conditional independence\nrelations and the temporal structure of time series data, a new\nconsistent model specification procedure is able to extract relatively\ndetailed causal information. We investigate the finite sample behavior\nof the procedure through simulation, and illustrate the application of\nthis method through analysis of the possible causal connections among\nfour ocean indices. Several variants of the procedure are also\ndiscussed.",
+		"container-title": "Journal of Machine Learning Research",
+		"ISSN": "1533-7928",
+		"issue": "32",
+		"page": "967-991",
+		"source": "www.jmlr.org",
+		"title": "Search for Additive Nonlinear Time Series Causal Models",
+		"URL": "http://jmlr.org/papers/v9/chu08a.html",
+		"volume": "9",
+		"author": [
+			{
+				"family": "Chu",
+				"given": "Tianjiao"
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/G6W7YPLM",
+		"type": "chapter",
+		"abstract": "By combining experimental interventions with search procedures for graphical causal models we show that under familiar assumptions, with perfect data, N - 1 experiments suffice to determine the causal relations among N>2 variables when each experiment randomizes at most one variable. We show the same bound holds for adaptive learners, but does not hold for N > 4 when each experiment can simultaneously randomize more than one variable. This bound provides a type of ideal for the measure of success of heuristic approaches in active learning methods of causal discovery, which currently use less informative measures.",
+		"container-title": "Innovations in Machine Learning: Theory and Applications",
+		"event-place": "Berlin, Heidelberg",
+		"ISBN": "978-3-540-33486-6",
+		"language": "en",
+		"note": "DOI: 10.1007/3-540-33486-6_4",
+		"page": "97-112",
+		"publisher": "Springer",
+		"publisher-place": "Berlin, Heidelberg",
+		"source": "Springer Link",
+		"title": "N-1 Experiments Suffice to Determine the Causal Relations Among N Variables",
+		"URL": "https://doi.org/10.1007/3-540-33486-6_4",
+		"author": [
+			{
+				"family": "Eberhardt",
+				"given": "Frederick"
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			},
+			{
+				"family": "Scheines",
+				"given": "Richard"
+			}
+		],
+		"editor": [
+			{
+				"family": "Holmes",
+				"given": "Dawn E."
+			},
+			{
+				"family": "Jain",
+				"given": "Lakhmi C."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/SWC7RG9Z",
+		"type": "article-journal",
+		"container-title": "Commun. ACM",
+		"DOI": "10.1145/240455.240466",
+		"ISSN": "0001-0782",
+		"issue": "11",
+		"page": "35–41",
+		"source": "ACM Digital Library",
+		"title": "Statistical inference and data mining",
+		"URL": "https://dl.acm.org/doi/10.1145/240455.240466",
+		"volume": "39",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			},
+			{
+				"family": "Madigan",
+				"given": "David"
+			},
+			{
+				"family": "Pregibon",
+				"given": "Daryl"
+			},
+			{
+				"family": "Smyth",
+				"given": "Padhraic"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1996",
+					11,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/UCT62YEJ",
+		"type": "chapter",
+		"container-title": "Qualitative Simulation Modeling and Analysis",
+		"event-place": "New York, NY",
+		"ISBN": "978-0-387-97400-2",
+		"note": "collection-title: Advances in Simulation\nDOI: 10.1007/978-1-4613-9072-5_4",
+		"page": "72-97",
+		"publisher": "Springer New York",
+		"publisher-place": "New York, NY",
+		"source": "DOI.org (Crossref)",
+		"title": "A Qualitative Approach to Causal Modeling",
+		"URL": "http://link.springer.com/10.1007/978-1-4613-9072-5_4",
+		"volume": "5",
+		"collection-editor": [
+			{
+				"family": "Luker",
+				"given": "Paul A."
+			},
+			{
+				"family": "Schmidt",
+				"given": "Bernd"
+			}
+		],
+		"editor": [
+			{
+				"family": "Fishwick",
+				"given": "Paul A."
+			},
+			{
+				"family": "Luker",
+				"given": "Paul A."
+			}
+		],
+		"author": [
+			{
+				"family": "Scheines",
+				"given": "Richard"
+			},
+			{
+				"family": "Spirtes",
+				"given": "Peter"
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1991"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/EM4UYKML",
+		"type": "article-journal",
+		"container-title": "Journal of the American Statistical Association",
+		"DOI": "10.2307/2289067",
+		"ISSN": "0162-1459",
+		"issue": "396",
+		"note": "publisher: [American Statistical Association, Taylor & Francis, Ltd.]",
+		"page": "964-966",
+		"source": "JSTOR",
+		"title": "Statistics and Causal Inference: Comment: Statistics and Metaphysics",
+		"title-short": "Statistics and Causal Inference",
+		"URL": "https://www.jstor.org/stable/2289067",
+		"volume": "81",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1986"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/QAT5D7QY",
+		"type": "article-journal",
+		"container-title": "Artificial Intelligence",
+		"DOI": "10.1016/0004-3702(85)90043-8",
+		"ISSN": "0004-3702",
+		"issue": "1",
+		"journalAbbreviation": "Artificial Intelligence",
+		"page": "95-99",
+		"source": "ScienceDirect",
+		"title": "Independence assumptions and Bayesian updating",
+		"URL": "https://www.sciencedirect.com/science/article/pii/0004370285900438",
+		"volume": "25",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1985",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/8NPPV58P",
+		"type": "article-journal",
+		"abstract": "Previous asymptotically correct algorithms for recovering causal structure from sample probabilities have been limited even in sparse causal graphs to a few variables. We describe an asymptotically correct algorithm whose complexity for fixed graph connectivity increases polynomially in the number of vertices, and may in practice recover sparse graphs with several hundred variables. From sample data with n = 20,000, an implementation of the algorithm on a DECStation 3100 recovers the edges in a linear version of the ALARM network with 37 vertices and 46 edges. Fewer than 8% of the undirected edges are incorrectly identified in the output. Without prior ordering information, the program also determines the direction of edges for the ALARM graph with an error rate of 14%. Processing time is less than 10 seconds. Keywords DAGS, Causal Modelling.",
+		"container-title": "Social Science Computer Review",
+		"DOI": "10.1177/089443939100900106",
+		"ISSN": "0894-4393",
+		"issue": "1",
+		"language": "EN",
+		"note": "publisher: SAGE Publications Inc",
+		"page": "62-72",
+		"source": "SAGE Journals",
+		"title": "An Algorithm for Fast Recovery of Sparse Causal Graphs",
+		"URL": "https://doi.org/10.1177/089443939100900106",
+		"volume": "9",
+		"author": [
+			{
+				"family": "Spirtes",
+				"given": "Peter"
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1991",
+					4,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/T3RZSSPS",
+		"type": "article-journal",
+		"container-title": "Biometrika",
+		"DOI": "10.1093/biomet/82.4.690",
+		"ISSN": "0006-3444",
+		"issue": "4",
+		"journalAbbreviation": "Biometrika",
+		"page": "690-692",
+		"source": "Silverchair",
+		"title": "Causal diagrams for empirical research: Discussion of ‘Causal diagrams for empirical research’ by J. Pearl",
+		"title-short": "Causal diagrams for empirical research",
+		"URL": "https://doi.org/10.1093/biomet/82.4.690",
+		"volume": "82",
+		"author": [
+			{
+				"family": "FIENBERG",
+				"given": "STEPHEN E."
+			},
+			{
+				"family": "GLYMOUR",
+				"given": "CLARK"
+			},
+			{
+				"family": "SPIRTES",
+				"given": "PETER"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1995",
+					12,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/WWHNQABQ",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the International Machine Learning Workshop, ed. R. Michalski",
+		"page": "96–98",
+		"source": "Google Scholar",
+		"title": "Two programs for testing hypotheses of any logical form",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			},
+			{
+				"family": "Kelly",
+				"given": "Kevin"
+			},
+			{
+				"family": "Scheines",
+				"given": "Richard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1983"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/YESWHDZ8",
+		"type": "article-journal",
+		"abstract": "We test the adequacies of several proposed and two new statistical methods for recovering the causal structure of systems with feedback from synthetic BOLD time series. We compare an adaptation of the first correct method for recovering cyclic linear systems; Granger causal regression; a multivariate autoregressive model with a permutation test; the Group Iterative Multiple Model Estimation (GIMME) algorithm; the Ramsey et al. non-Gaussian methods; two non-Gaussian methods by Hyvärinen and Smith; a method due to Patel et al.; and the GlobalMIT algorithm. We introduce and also compare two new methods, Fast Adjacency Skewness (FASK) and Two-Step, both of which exploit non-Gaussian features of the BOLD signal. We give theoretical justifications for the latter two algorithms. Our test models include feedback structures with and without direct feedback (2-cycles), excitatory and inhibitory feedback, models using experimentally determined structural connectivities of macaques, and empirical human resting-state and task data. We find that averaged over all of our simulations, including those with 2-cycles, several of these methods have a better than 80% orientation precision (i.e., the probability of a directed edge is in the true structure given that a procedure estimates it to be so) and the two new methods also have better than 80% recall (probability of recovering an orientation in the true structure).",
+		"container-title": "Network Neuroscience",
+		"DOI": "10.1162/netn_a_00061",
+		"ISSN": "2472-1751",
+		"issue": "2",
+		"journalAbbreviation": "Network Neuroscience",
+		"page": "274-306",
+		"source": "Silverchair",
+		"title": "Estimating feedforward and feedback effective connections from fMRI time series: Assessments of statistical methods",
+		"title-short": "Estimating feedforward and feedback effective connections from fMRI time series",
+		"URL": "https://doi.org/10.1162/netn_a_00061",
+		"volume": "3",
+		"author": [
+			{
+				"family": "Sanchez-Romero",
+				"given": "Ruben"
+			},
+			{
+				"family": "Ramsey",
+				"given": "Joseph D."
+			},
+			{
+				"family": "Zhang",
+				"given": "Kun"
+			},
+			{
+				"family": "Glymour",
+				"given": "Madelyn R. K."
+			},
+			{
+				"family": "Huang",
+				"given": "Biwei"
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					2,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/733AMAQU",
+		"type": "article-journal",
+		"abstract": "It is commonplace to encounter heterogeneous or nonstationary data, of which the underlying generating process changes across domains or over time. Such a distribution shift feature presents both challenges and opportunities for causal discovery. In this paper, we develop a framework for causal discovery from such data, called Constraint-based causal Discovery from heterogeneous/NOnstationary Data (CD-NOD), to find causal skeleton and directions and estimate the properties of mechanism changes. First, we propose an enhanced constraint-based procedure to detect variables whose local mechanisms change and recover the skeleton of the causal structure over observed variables. Second, we present a method to determine causal orientations by making use of independent changes in the data distribution implied by the underlying causal model, benefiting from information carried by changing distributions. After learning the causal structure, next, we investigate how to efficiently estimate the “driving force” of the nonstationarity of a causal mechanism. That is, we aim to extract from data a low-dimensional representation of changes. The proposed methods are nonparametric, with no hard restrictions on data distributions and causal mechanisms, and do not rely on window segmentation. Furthermore, we find that data heterogeneity benefits causal structure identification even with particular types of confounders. Finally, we show the connection between heterogeneity/nonstationarity and soft intervention in causal discovery. Experimental results on various synthetic and real-world data sets (task-fMRI and stock market data) are presented to demonstrate the efficacy of the proposed methods.",
+		"container-title": "Journal of Machine Learning Research",
+		"ISSN": "1533-7928",
+		"issue": "89",
+		"page": "1-53",
+		"source": "www.jmlr.org",
+		"title": "Causal Discovery from Heterogeneous/Nonstationary Data",
+		"URL": "http://jmlr.org/papers/v21/19-232.html",
+		"volume": "21",
+		"author": [
+			{
+				"family": "Huang",
+				"given": "Biwei"
+			},
+			{
+				"family": "Zhang",
+				"given": "Kun"
+			},
+			{
+				"family": "Zhang",
+				"given": "Jiji"
+			},
+			{
+				"family": "Ramsey",
+				"given": "Joseph"
+			},
+			{
+				"family": "Sanchez-Romero",
+				"given": "Ruben"
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			},
+			{
+				"family": "Schölkopf",
+				"given": "Bernhard"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/9VQG5XJN",
+		"type": "paper-conference",
+		"abstract": "Discovery of causal relationships from observational data is a fundamental problem. Roughly speaking, there are two types of methods for causal discovery, constraint-based ones and score-based ones. Score-based methods avoid the multiple testing problem and enjoy certain advantages compared to constraint-based ones. However, most of them need strong assumptions on the functional forms of causal mechanisms, as well as on data distributions, which limit their applicability. In practice the precise information of the underlying model class is usually unknown. If the above assumptions are violated, both spurious and missing edges may result. In this paper, we introduce generalized score functions for causal discovery based on the characterization of general (conditional) independence relationships between random variables, without assuming particular model classes. In particular, we exploit regression in RKHS to capture the dependence in a nonparametric way. The resulting causal discovery approach produces asymptotically correct results in rather general cases, which may have nonlinear causal mechanisms, a wide class of data distributions, mixed continuous and discrete data, and multidimensional variables. Experimental results on both synthetic and real-world data demonstrate the efficacy of our proposed approach.",
+		"collection-title": "KDD '18",
+		"container-title": "Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining",
+		"DOI": "10.1145/3219819.3220104",
+		"event-place": "New York, NY, USA",
+		"ISBN": "978-1-4503-5552-0",
+		"page": "1551–1560",
+		"publisher": "Association for Computing Machinery",
+		"publisher-place": "New York, NY, USA",
+		"source": "ACM Digital Library",
+		"title": "Generalized Score Functions for Causal Discovery",
+		"URL": "https://dl.acm.org/doi/10.1145/3219819.3220104",
+		"author": [
+			{
+				"family": "Huang",
+				"given": "Biwei"
+			},
+			{
+				"family": "Zhang",
+				"given": "Kun"
+			},
+			{
+				"family": "Lin",
+				"given": "Yizhu"
+			},
+			{
+				"family": "Schölkopf",
+				"given": "Bernhard"
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					7,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/6EHZ59UD",
+		"type": "article-journal",
+		"abstract": "Electronic proceedings of IJCAI 2017",
+		"page": "1347-1353",
+		"source": "www.ijcai.org",
+		"title": "Causal Discovery from Nonstationary/Heterogeneous Data: Skeleton Estimation and Orientation Determination",
+		"title-short": "Causal Discovery from Nonstationary/Heterogeneous Data",
+		"URL": "https://www.ijcai.org/proceedings/2017/187",
+		"author": [
+			{
+				"family": "Zhang",
+				"given": "Kun"
+			},
+			{
+				"family": "Huang",
+				"given": "Biwei"
+			},
+			{
+				"family": "Zhang",
+				"given": "Jiji"
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			},
+			{
+				"family": "Schölkopf",
+				"given": "Bernhard"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/M7HBRZZS",
+		"type": "paper-conference",
+		"container-title": "Advances in Neural Information Processing Systems",
+		"page": "14891–14902",
+		"publisher": "Curran Associates, Inc.",
+		"source": "Neural Information Processing Systems",
+		"title": "Generalized Independent Noise Condition for Estimating Latent Variable Causal Graphs",
+		"URL": "https://proceedings.neurips.cc/paper/2020/hash/aa475604668730af60a0a87cc92604da-Abstract.html",
+		"volume": "33",
+		"author": [
+			{
+				"family": "Xie",
+				"given": "Feng"
+			},
+			{
+				"family": "Cai",
+				"given": "Ruichu"
+			},
+			{
+				"family": "Huang",
+				"given": "Biwei"
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			},
+			{
+				"family": "Hao",
+				"given": "Zhifeng"
+			},
+			{
+				"family": "Zhang",
+				"given": "Kun"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/H3RFJJLY",
+		"type": "paper-conference",
+		"container-title": "8th international workshop on climate informatics",
+		"page": "1–4",
+		"publisher": "National Center for Atmospheric Research",
+		"source": "Google Scholar",
+		"title": "Tetrad—a toolbox for causal discovery",
+		"URL": "https://www.atmos.colostate.edu/~iebert/PAPERS/CI2018_paper_35.pdf",
+		"author": [
+			{
+				"family": "Ramsey",
+				"given": "Joseph D."
+			},
+			{
+				"family": "Zhang",
+				"given": "Kun"
+			},
+			{
+				"family": "Glymour",
+				"given": "Madelyn"
+			},
+			{
+				"family": "Romero",
+				"given": "Ruben Sanchez"
+			},
+			{
+				"family": "Huang",
+				"given": "Biwei"
+			},
+			{
+				"family": "Ebert-Uphoff",
+				"given": "Imme"
+			},
+			{
+				"family": "Samarasinghe",
+				"given": "Savini"
+			},
+			{
+				"family": "Barnes",
+				"given": "Elizabeth A."
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
 	}
 ]
