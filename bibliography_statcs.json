@@ -1,0 +1,61 @@
+[
+	{
+		"id": "http://zotero.org/users/5856333/items/B897EGM4",
+		"type": "article-journal",
+		"abstract": "We investigate the challenging task of learning causal structure in the presence of latent variables, including locating latent variables, determining their quantity, and identifying causal relationships among both latent and observed variables. To address this, we propose a Generalized Independent Noise (GIN) condition for linear non-Gaussian acyclic causal models that incorporate latent variables, which establishes the independence between a linear combination of certain measured variables and some other measured variables. Specifically, for two observed random vectors YY\\bf{Y} and ZZ\\bf{Z}, GIN holds if and only if ω⊺Yω⊺Y\\omega^{\\intercal}\\mathbf{Y} and ZZ\\mathbf{Z} are statistically independent, where ωω\\omega is a non-zero parameter vector determined by the cross-covariance between YY\\mathbf{Y} and ZZ\\mathbf{Z}. We then give necessary and sufficient graphical criteria of the GIN condition in linear non-Gaussian acyclic causal models. From a graphical perspective, roughly speaking, GIN implies the existence of a set S\\mathcal{S} such that S\\mathcal{S} is causally earlier (w.r.t. the causal ordering) than YY\\mathbf{Y}, and that every active (collider-free) path between YY\\mathbf{Y} and ZZ\\mathbf{Z} must contain a node from S\\mathcal{S}. Interestingly, we find that the independent noise condition (i.e., if there is no confounder, causes are independent of the residual derived from regressing the effect on the causes) can be seen as a special case of GIN. With such a connection between GIN and latent causal structures,  we further leverage the proposed GIN condition, together with a well-designed search procedure, to efficiently estimate Linear, Non-Gaussian Latent Hierarchical Models (LiNGLaHs), where latent confounders may also be causally related and may even follow a hierarchical structure.  We show that the underlying causal structure of a LiNGLaH is identifiable in light of GIN conditions under mild assumptions. Experimental results on both synthetic and three real-world data sets show the effectiveness of the proposed approach.",
+		"container-title": "Journal of Machine Learning Research",
+		"ISSN": "1533-7928",
+		"issue": "191",
+		"page": "1-61",
+		"source": "www.jmlr.org",
+		"title": "Generalized Independent Noise Condition for Estimating Causal Structure with Latent Variables",
+		"URL": "http://jmlr.org/papers/v25/23-1052.html",
+		"volume": "25",
+		"author": [
+			{
+				"family": "Xie",
+				"given": "Feng"
+			},
+			{
+				"family": "Huang",
+				"given": "Biwei"
+			},
+			{
+				"family": "Chen",
+				"given": "Zhengming"
+			},
+			{
+				"family": "Cai",
+				"given": "Ruichu"
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			},
+			{
+				"family": "Geng",
+				"given": "Zhi"
+			},
+			{
+				"family": "Zhang",
+				"given": "Kun"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	}
+]
