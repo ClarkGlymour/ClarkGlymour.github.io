@@ -100,5 +100,216 @@
 				]
 			]
 		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/Q3Y59QTX",
+		"type": "article-journal",
+		"abstract": "Halvorson argues through a series of examples and a general result due to Myers that the “semantic view” of theories has no available account of formal theoretical equivalence. De Bouvere provides criteria overlooked in Halvorson’s paper that are immune to his counterexamples and to the theorem he cites. Those criteria accord with a modest version of the semantic view that rejects some of Van Fraassen’s apparent claims while retaining the core of Patrick Suppes’s proposal. I do not endorse any version of the semantic view of theories.",
+		"container-title": "Philosophy of Science",
+		"DOI": "10.1086/670261",
+		"ISSN": "0031-8248, 1539-767X",
+		"issue": "2",
+		"language": "en",
+		"page": "286-297",
+		"source": "Cambridge University Press",
+		"title": "Theoretical Equivalence and the Semantic View of Theories",
+		"URL": "https://www.cambridge.org/core/journals/philosophy-of-science/article/theoretical-equivalence-and-the-semantic-view-of-theories/B0A0E27EFCBAEB2B46886914F422074A",
+		"volume": "80",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/RBX9LZDI",
+		"type": "article-journal",
+		"abstract": "Reverse inference in cognitive neuropsychology has been characterized as inference to ‘psychological processes’ from ‘patterns of activation’ revealed by functional magnetic resonance or other scanning techniques. Several arguments have been provided against the possibility. Focusing on Machery’s ([2014]) presentation, we attempt to clarify the issues, rebut the impossibility arguments, and propose and illustrate a strategy for reverse inference. 1.  The Problem of Reverse Inference in Cognitive Neuropsychology2.  The Arguments2.1.  The anti-Bayesian argument3.  Patterns of Activation4.  Reverse Inference Practiced5.  Seek and Ye Shall Find, Maybe6.  Conclusion",
+		"container-title": "The British Journal for the Philosophy of Science",
+		"DOI": "10.1093/bjps/axv019",
+		"ISSN": "0007-0882",
+		"issue": "4",
+		"note": "publisher: The University of Chicago Press",
+		"page": "1139-1153",
+		"source": "journals.uchicago.edu (Atypon)",
+		"title": "Reverse Inference in Neuropsychology",
+		"URL": "https://www.journals.uchicago.edu/doi/full/10.1093/bjps/axv019",
+		"volume": "67",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			},
+			{
+				"family": "Hanson",
+				"given": "Catherine"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/M29KQWLU",
+		"type": "article-journal",
+		"abstract": "Smith et al. report a large study of the accuracy of 38 search procedures for recovering effective connections in simulations of DCM models under 28 different conditions. Their results are disappointing: no method reliably finds and directs connections without large false negatives, large false positives, or both. Using multiple subject inputs, we apply a previously published search algorithm, IMaGES, and novel orientation algorithms, LOFS, in tandem to all of the simulations of DCM models described by Smith et al. (2011). We find that the procedures accurately identify effective connections in almost all of the conditions that Smith et al. simulated and, in most conditions, direct causal connections with precision greater than 90% and recall greater than 80%.",
+		"container-title": "NeuroImage",
+		"DOI": "10.1016/j.neuroimage.2011.06.068",
+		"ISSN": "1053-8119",
+		"issue": "3",
+		"journalAbbreviation": "NeuroImage",
+		"page": "838-848",
+		"source": "ScienceDirect",
+		"title": "Multi-subject search correctly identifies causal connections and most causal directions in the DCM models of the Smith et al. simulation study",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S1053811911007142",
+		"volume": "58",
+		"author": [
+			{
+				"family": "Ramsey",
+				"given": "Joseph D."
+			},
+			{
+				"family": "Hanson",
+				"given": "Stephen José"
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					10,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/UL2HU9WM",
+		"type": "article-journal",
+		"abstract": "We consider several alternative ways of exploiting non-Gaussian distributional features, including some that can in principle identify direct, positive feedback relations (graphically, 2-cycles) and combinations of methods that can identify high dimensional graphs. All of the procedures are implemented in the TETRAD freeware (Ramsey et al., 2013). We show that in most cases the limited accuracy of the several non-Gaussian methods in the Smith et al. (2011) simulations can be attributed to the high-pass Butterworth filter used in that study. Without that filter, or with the filter in the widely used FSL program (Jenkinson et al., 2012), the directional accuracies of several of the non-Gaussian methods are at or near ceiling in many conditions of the Smith et al. simulation. We show that the improvement of an apparently Gaussian method (Patel et al., 2006) when filtering is removed is due to non-Gaussian features of that method introduced by the Smith et al. implementation. We also investigate some conditions in which multi-subject data help with causal structure identification using higher moments, notably with non-stationary time series or with 2-cycles. We illustrate the accuracy of the methods with more complex graphs with and without 2-cycles, and with a 500 node graph; to illustrate applicability and provide a further test we apply the methods to an empirical case for which aspects of the causal structure are known. Finally, we note a number of cautions and issues that remain to be investigated, and some outstanding problems for determining the structure of effective connections from fMRI data.",
+		"container-title": "NeuroImage",
+		"DOI": "10.1016/j.neuroimage.2013.09.062",
+		"ISSN": "1053-8119",
+		"journalAbbreviation": "NeuroImage",
+		"page": "986-1006",
+		"source": "ScienceDirect",
+		"title": "Non-Gaussian methods and high-pass filters in the estimation of effective connections",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S1053811913009981",
+		"volume": "84",
+		"author": [
+			{
+				"family": "Ramsey",
+				"given": "Joseph D."
+			},
+			{
+				"family": "Sanchez-Romero",
+				"given": "Ruben"
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/K6SPJKYN",
+		"type": "article-journal",
+		"abstract": "Recent literature in philosophy of science has addressed purported notions of explanatory virtues—‘explanatory power’, ‘unification’, and ‘coherence’. In each case, a probabilistic relation between a theory and data is said to measure the power of an explanation, or degree of unification, or degree of coherence. This essay argues that the measures do not capture cases that are paradigms of scientific explanation, that the available psychological evidence indicates that the measures do not capture judgements of explanatory power, and, finally, that the measures do not provide useful methods for selecting hypotheses. 1. Introduction2. Some Proposed Measures of Explanatory Virtues3. Descriptive Inadequacy  3.1 Excellent but false explanations  3.2 Causal explanation4. Psychological Inadequacy5. Finding the Truth6. Conclusion",
+		"container-title": "The British Journal for the Philosophy of Science",
+		"DOI": "10.1093/bjps/axt051",
+		"ISSN": "0007-0882",
+		"issue": "3",
+		"note": "publisher: The University of Chicago Press",
+		"page": "591-604",
+		"source": "journals.uchicago.edu (Atypon)",
+		"title": "Probability and the Explanatory Virtues",
+		"URL": "https://www.journals.uchicago.edu/doi/full/10.1093/bjps/axt051",
+		"volume": "66",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					9
+				]
+			]
+		}
 	}
 ]
