@@ -38,3 +38,17 @@ body {
     gap: 15px;                  /* space between image and title */
     margin-bottom: 20px;
   }
+
+  .search-container {
+    margin: 20px 0;
+    text-align: center;
+  }
+  
+  #searchInput {
+    width: 80%;
+    max-width: 500px;
+    padding: 10px;
+    font-size: 1rem;
+    border: 2px solid #1E3A8A;
+    border-radius: 6px;
+  }

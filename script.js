@@ -62,6 +62,18 @@ function loadBibliography(jsonFile, containerId) {
     .catch(err => console.error(`Error loading ${jsonFile}:`, err));
 }
 
+// --- Search function ---
+function searchPubs() {
+  const query = document.getElementById("searchInput").value.toLowerCase();
+  const entries = document.querySelectorAll(".entry");
+
+  entries.forEach(entry => {
+    const text = entry.textContent.toLowerCase();
+    entry.style.display = text.includes(query) ? "block" : "none";
+  });
+}
+
+
 // Load each section from its own file
 loadBibliography("bibliography_statcs.json", "statcs");
 loadBibliography("bibliography_physics.json", "physics");
