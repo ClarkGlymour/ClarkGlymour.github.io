@@ -3,9 +3,18 @@ function loadBibliography(jsonFile, containerId) {
   fetch(jsonFile)
     .then(response => response.json())
     .then(data => {
+      // --- Sort by year (descending: newest first) ---
+      data.sort((a, b) => {
+        // handle year stored directly
+        const yearA = a.year || (a.issued && a.issued["date-parts"] ? a.issued["date-parts"][0][0] : 0);
+        const yearB = b.year || (b.issued && b.issued["date-parts"] ? b.issued["date-parts"][0][0] : 0);
+        return yearB - yearA; // newest first
+      });
+      // --- Render entries ---
       data.forEach(entry => {
         const title = entry.title || "";
         const link = entry.link || "";
+        const year = entry.year || (entry.issued && entry.issued["date-parts"] ? entry.issued["date-parts"][0][0] : "");
         //const pdf = entry.pdf || "";
         const abstract = entry.abstract || "";
 
@@ -17,12 +26,12 @@ function loadBibliography(jsonFile, containerId) {
           authors = entry.authors;
         }
 
-        let year = "";
-        if (entry.year) {
-          year = entry.year; // if someone already stored it directly
-        } else if (entry.issued && entry.issued["date-parts"]) {
-          year = entry.issued["date-parts"][0][0]; // first element of first array
-        }
+        //let year = "";
+        //if (entry.year) {
+        //  year = entry.year; // if someone already stored it directly
+        //} else if (entry.issued && entry.issued["date-parts"]) {
+        //  year = entry.issued["date-parts"][0][0]; // first element of first array
+        //}
 
         const div = document.createElement("div");
         div.className = "entry";
