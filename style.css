@@ -22,8 +22,8 @@ body {
 
   summary {
     color: #1E3A8A;       /* deep blue */
-    font-size: 1.8em;     /* make it larger */
-    font-weight: bold;    /* bold */
+    font-size: 1.5em;     /* make it larger */
+    font-weight: 500;   
     cursor: pointer;      /* hand cursor when hover */
     margin-top: 20px;
   }
