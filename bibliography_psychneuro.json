@@ -1,0 +1,1158 @@
+[
+	{
+		"id": "http://zotero.org/users/5856333/items/M29KQWLU",
+		"type": "article-journal",
+		"abstract": "Smith et al. report a large study of the accuracy of 38 search procedures for recovering effective connections in simulations of DCM models under 28 different conditions. Their results are disappointing: no method reliably finds and directs connections without large false negatives, large false positives, or both. Using multiple subject inputs, we apply a previously published search algorithm, IMaGES, and novel orientation algorithms, LOFS, in tandem to all of the simulations of DCM models described by Smith et al. (2011). We find that the procedures accurately identify effective connections in almost all of the conditions that Smith et al. simulated and, in most conditions, direct causal connections with precision greater than 90% and recall greater than 80%.",
+		"container-title": "NeuroImage",
+		"DOI": "10.1016/j.neuroimage.2011.06.068",
+		"ISSN": "1053-8119",
+		"issue": "3",
+		"journalAbbreviation": "NeuroImage",
+		"page": "838-848",
+		"source": "ScienceDirect",
+		"title": "Multi-subject search correctly identifies causal connections and most causal directions in the DCM models of the Smith et al. simulation study",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S1053811911007142",
+		"volume": "58",
+		"author": [
+			{
+				"family": "Ramsey",
+				"given": "Joseph D."
+			},
+			{
+				"family": "Hanson",
+				"given": "Stephen José"
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					10,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/UL2HU9WM",
+		"type": "article-journal",
+		"abstract": "We consider several alternative ways of exploiting non-Gaussian distributional features, including some that can in principle identify direct, positive feedback relations (graphically, 2-cycles) and combinations of methods that can identify high dimensional graphs. All of the procedures are implemented in the TETRAD freeware (Ramsey et al., 2013). We show that in most cases the limited accuracy of the several non-Gaussian methods in the Smith et al. (2011) simulations can be attributed to the high-pass Butterworth filter used in that study. Without that filter, or with the filter in the widely used FSL program (Jenkinson et al., 2012), the directional accuracies of several of the non-Gaussian methods are at or near ceiling in many conditions of the Smith et al. simulation. We show that the improvement of an apparently Gaussian method (Patel et al., 2006) when filtering is removed is due to non-Gaussian features of that method introduced by the Smith et al. implementation. We also investigate some conditions in which multi-subject data help with causal structure identification using higher moments, notably with non-stationary time series or with 2-cycles. We illustrate the accuracy of the methods with more complex graphs with and without 2-cycles, and with a 500 node graph; to illustrate applicability and provide a further test we apply the methods to an empirical case for which aspects of the causal structure are known. Finally, we note a number of cautions and issues that remain to be investigated, and some outstanding problems for determining the structure of effective connections from fMRI data.",
+		"container-title": "NeuroImage",
+		"DOI": "10.1016/j.neuroimage.2013.09.062",
+		"ISSN": "1053-8119",
+		"journalAbbreviation": "NeuroImage",
+		"page": "986-1006",
+		"source": "ScienceDirect",
+		"title": "Non-Gaussian methods and high-pass filters in the estimation of effective connections",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S1053811913009981",
+		"volume": "84",
+		"author": [
+			{
+				"family": "Ramsey",
+				"given": "Joseph D."
+			},
+			{
+				"family": "Sanchez-Romero",
+				"given": "Ruben"
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/AG3ZXXN3",
+		"type": "article-journal",
+		"abstract": "Neumann et al. (2010) aim to find directed graphical representations of the independence and dependence relations among activities in brain regions by applying a search procedure to merged fMRI activity records from a large number of contrasts obtained under a variety of conditions. To that end, Neumann et al., obtain three graphical models, justifying their search procedure with simulations that find that merging the data sampled from probability distributions characterized by two distinct Bayes net graphs results in a graphical object that combines the edges in the individual graphs. We argue that the graphical objects they obtain cannot be interpreted as representations of conditional independence and dependence relations among localized neural activities; specifically, directed edges and directed pathways in their graphical results may be artifacts of the manner in which separate studies are combined in the meta-analytic procedure. With a larger simulation study, we argue that their simulation results with combined data sets are an artifact of their choice of examples. We provide sufficient conditions and necessary conditions for the merger of two or more probability distributions, each characterized by the Markov equivalence class of a directed acyclic graph, to be describable by a Markov equivalence class whose edges are a union of those for the individual distributions. Contrary to Neumann et al., we argue that the scientific value of searches for network representations from imaging data lies in attempting to characterize large scaled neural mechanisms, and we suggest several alternative strategies for combining data from multiple experiments.",
+		"container-title": "NeuroImage",
+		"DOI": "10.1016/j.neuroimage.2010.07.065",
+		"ISSN": "1053-8119",
+		"issue": "2",
+		"journalAbbreviation": "NeuroImage",
+		"page": "323-330",
+		"source": "ScienceDirect",
+		"title": "On meta-analyses of imaging data and the mixture of records",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S1053811910010578",
+		"volume": "57",
+		"author": [
+			{
+				"family": "Ramsey",
+				"given": "J. D."
+			},
+			{
+				"family": "Spirtes",
+				"given": "P."
+			},
+			{
+				"family": "Glymour",
+				"given": "C."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					7,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/YESWHDZ8",
+		"type": "article-journal",
+		"abstract": "We test the adequacies of several proposed and two new statistical methods for recovering the causal structure of systems with feedback from synthetic BOLD time series. We compare an adaptation of the first correct method for recovering cyclic linear systems; Granger causal regression; a multivariate autoregressive model with a permutation test; the Group Iterative Multiple Model Estimation (GIMME) algorithm; the Ramsey et al. non-Gaussian methods; two non-Gaussian methods by Hyvärinen and Smith; a method due to Patel et al.; and the GlobalMIT algorithm. We introduce and also compare two new methods, Fast Adjacency Skewness (FASK) and Two-Step, both of which exploit non-Gaussian features of the BOLD signal. We give theoretical justifications for the latter two algorithms. Our test models include feedback structures with and without direct feedback (2-cycles), excitatory and inhibitory feedback, models using experimentally determined structural connectivities of macaques, and empirical human resting-state and task data. We find that averaged over all of our simulations, including those with 2-cycles, several of these methods have a better than 80% orientation precision (i.e., the probability of a directed edge is in the true structure given that a procedure estimates it to be so) and the two new methods also have better than 80% recall (probability of recovering an orientation in the true structure).",
+		"container-title": "Network Neuroscience",
+		"DOI": "10.1162/netn_a_00061",
+		"ISSN": "2472-1751",
+		"issue": "2",
+		"journalAbbreviation": "Network Neuroscience",
+		"page": "274-306",
+		"source": "Silverchair",
+		"title": "Estimating feedforward and feedback effective connections from fMRI time series: Assessments of statistical methods",
+		"title-short": "Estimating feedforward and feedback effective connections from fMRI time series",
+		"URL": "https://doi.org/10.1162/netn_a_00061",
+		"volume": "3",
+		"author": [
+			{
+				"family": "Sanchez-Romero",
+				"given": "Ruben"
+			},
+			{
+				"family": "Ramsey",
+				"given": "Joseph D."
+			},
+			{
+				"family": "Zhang",
+				"given": "Kun"
+			},
+			{
+				"family": "Glymour",
+				"given": "Madelyn R. K."
+			},
+			{
+				"family": "Huang",
+				"given": "Biwei"
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					2,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/GC8BMSEH",
+		"type": "book",
+		"abstract": "The use of Bayes nets and graphical causal models in the investigation of human learning of causal relations, and in modeling and inference in cognitive ps",
+		"ISBN": "978-0-262-27396-1",
+		"language": "en",
+		"note": "DOI: 10.7551/mitpress/4638.001.0001",
+		"publisher": "The MIT Press",
+		"source": "direct.mit.edu",
+		"title": "The Mind's Arrows: Bayes Nets and Graphical Causal Models in Psychology",
+		"title-short": "The Mind's Arrows",
+		"URL": "https://direct.mit.edu/books/monograph/2542/The-Mind-s-ArrowsBayes-Nets-and-Graphical-Causal",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2001",
+					12,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/BM3F4Z4L",
+		"type": "chapter",
+		"abstract": "Consider a system represented by a directed acyclic graph with variables as vertices in which represented variable is a deterministic function of its parents. Most engineered systems without feedback instantiate such structures, and so, at least to appearances, do many macroscopic, natural inanimate systems. Learning the graphical representation of causal structure without experimental controls is especially difficult for such systems, because while the Markov condition holds, faithfulness does not. This chapter illustrates the problem and describes a heuristic (and not very satisfactory) learning procedure.",
+		"container-title": "Causal Learning: Psychology, Philosophy, and Computation",
+		"ISBN": "978-0-19-517680-3",
+		"note": "DOI: 10.1093/acprof:oso/9780195176803.003.0015",
+		"page": "0",
+		"publisher": "Oxford University Press",
+		"source": "Silverchair",
+		"title": "Learning the Structure of Deterministic Systems",
+		"URL": "https://doi.org/10.1093/acprof:oso/9780195176803.003.0015",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"editor": [
+			{
+				"family": "Gopnik",
+				"given": "Alison"
+			},
+			{
+				"family": "Schulz",
+				"given": "Laura"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2007",
+					4,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/6N5ZH98N",
+		"type": "chapter",
+		"abstract": "The psychological literature on causation includes a variety of proposed analyses of causal relations: simple correlation, mental models, causal powers, etc. Each of these proposals is subject to everyday counterexamples. Correlation accounts confuse intervention with conditioning and yield statistical jokes; mental models fail to capture conditional information; races and voting present difficulties for causal power theories, as do existing philosophical accounts of causal relations among events.",
+		"container-title": "Causal Learning: Psychology, Philosophy, and Computation",
+		"ISBN": "978-0-19-517680-3",
+		"note": "DOI: 10.1093/acprof:oso/9780195176803.003.0019",
+		"page": "0",
+		"publisher": "Oxford University Press",
+		"source": "Silverchair",
+		"title": "Statistical Jokes and Social Effects: Intervention and Invariance in Causal Relations",
+		"title-short": "Statistical Jokes and Social Effects",
+		"URL": "https://doi.org/10.1093/acprof:oso/9780195176803.003.0019",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"editor": [
+			{
+				"family": "Gopnik",
+				"given": "Alison"
+			},
+			{
+				"family": "Schulz",
+				"given": "Laura"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2007",
+					4,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/DBGXPWI5",
+		"type": "article-journal",
+		"abstract": "Neuroimaging (e.g. fMRI) data are increasingly used to attempt to identify not only brain regions of interest (ROIs) that are especially active during perception, cognition, and action, but also the qualitative causal relations among activity in these regions (known as effective connectivity; Friston, 1994). Previous investigations and anatomical and physiological knowledge may somewhat constrain the possible hypotheses, but there often remains a vast space of possible causal structures. To find actual effective connectivity relations, search methods must accommodate indirect measurements of nonlinear time series dependencies, feedback, multiple subjects possibly varying in identified regions of interest, and unknown possible location-dependent variations in BOLD response delays. We describe combinations of procedures that under these conditions find feed-forward sub-structure characteristic of a group of subjects. The method is illustrated with an empirical data set and confirmed with simulations of time series of non-linear, randomly generated, effective connectivities, with feedback, subject to random differences of BOLD delays, with regions of interest missing at random for some subjects, measured with noise approximating the signal to noise ratio of the empirical data.",
+		"container-title": "NeuroImage",
+		"DOI": "10.1016/j.neuroimage.2009.08.065",
+		"ISSN": "1053-8119",
+		"issue": "2",
+		"journalAbbreviation": "NeuroImage",
+		"page": "1545-1558",
+		"source": "ScienceDirect",
+		"title": "Six problems for causal inference from fMRI",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S105381190900977X",
+		"volume": "49",
+		"author": [
+			{
+				"family": "Ramsey",
+				"given": "J. D."
+			},
+			{
+				"family": "Hanson",
+				"given": "S. J."
+			},
+			{
+				"family": "Hanson",
+				"given": "C."
+			},
+			{
+				"family": "Halchenko",
+				"given": "Y. O."
+			},
+			{
+				"family": "Poldrack",
+				"given": "R. A."
+			},
+			{
+				"family": "Glymour",
+				"given": "C."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					1,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/2KCG5W3N",
+		"type": "article-journal",
+		"abstract": "The central theoretical issue of Wegner's book is: Why do we have the illusion of conscious will? I suggest that learning requires belief in the autonomy of action.You should believe in freedom of the will because if you have it you're right, and if you don't have it you couldn't have done otherwise anyway.—Sam Buss (Lecture at University of California, San Diego, 2000)",
+		"container-title": "Behavioral and Brain Sciences",
+		"DOI": "10.1017/S0140525X04250154",
+		"ISSN": "0140-525X, 1469-1825",
+		"issue": "5",
+		"language": "en",
+		"page": "661-662",
+		"source": "Cambridge University Press",
+		"title": "We believe in freedom of the will so that we can learn",
+		"URL": "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/we-believe-in-freedom-of-the-will-so-that-we-can-learn/60BDDA5BE79A67F1D51BBA1E0300A9D5",
+		"volume": "27",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2004",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/LJL668Y7",
+		"type": "article-journal",
+		"abstract": "The authors outline a cognitive and computational account of causal learning in children. They propose that children use specialized cognitive systems that allow them to recover an accurate \"causal map\" of the world: an abstract, coherent, learned representation of the causal relations among events. This kind of knowledge can be perspicuously understood in terms of the formalism of directed graphical causal models, or Bayes nets. Children's causal learning and inference may involve computations similar to those for learning causal Bayes nets and for predicting with them. Experimental results suggest that 2- to 4-year-old children construct new causal maps and that their learning is consistent with the Bayes net formalism. (PsycINFO Database Record (c) 2016 APA, all rights reserved)",
+		"container-title": "Psychological Review",
+		"DOI": "10.1037/0033-295X.111.1.3",
+		"ISSN": "1939-1471",
+		"issue": "1",
+		"note": "publisher-place: US\npublisher: American Psychological Association",
+		"page": "3-32",
+		"source": "APA PsycNet",
+		"title": "A Theory of Causal Learning in Children: Causal Maps and Bayes Nets",
+		"title-short": "A Theory of Causal Learning in Children",
+		"volume": "111",
+		"author": [
+			{
+				"family": "Gopnik",
+				"given": "Alison"
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			},
+			{
+				"family": "Sobel",
+				"given": "David M."
+			},
+			{
+				"family": "Schulz",
+				"given": "Laura E."
+			},
+			{
+				"family": "Kushnir",
+				"given": "Tamar"
+			},
+			{
+				"family": "Danks",
+				"given": "David"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/2ZCLF9X4",
+		"type": "article-journal",
+		"container-title": "Trends in Cognitive Sciences",
+		"DOI": "10.1016/S1364-6613(02)00009-8",
+		"ISSN": "1364-6613, 1879-307X",
+		"issue": "1",
+		"journalAbbreviation": "Trends in Cognitive Sciences",
+		"language": "English",
+		"note": "publisher: Elsevier\nPMID: 12517358",
+		"page": "43-48",
+		"source": "www.cell.com",
+		"title": "Learning, prediction and causal Bayes nets",
+		"URL": "https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(02)00009-8",
+		"volume": "7",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/RUAKHGRD",
+		"type": "article-journal",
+		"abstract": "Three studies investigated whether young children make accurate causal inferences on the basis of patterns of variation and covariation. Children were presented with a new causal relation by means of a machine called the \"blicket detector.\" Some objects, but not others, made the machine light up and play music. In the first 2 experiments, children were told that \"blickets make the machine go\" and were then asked to identify which objects were \"blickets.\" Two-, 3-, and 4-year-old children were shown various patterns of variation and covariation between two different objects and the activation of the machine. All 3 age groups took this information into account in their causal judgments about which objects were blickets. In a 3rd experiment, 3- and 4-year-old children used the information when they were asked to make the machine stop. These results are related to Bayes-net causal graphical models of causal learning. (PsycINFO Database Record (c) 2016 APA, all rights reserved)",
+		"container-title": "Developmental Psychology",
+		"DOI": "10.1037/0012-1649.37.5.620",
+		"ISSN": "1939-0599",
+		"issue": "5",
+		"note": "publisher-place: US\npublisher: American Psychological Association",
+		"page": "620-629",
+		"source": "APA PsycNet",
+		"title": "Causal learning mechanisms in very young children: Two-, three-, and four-year-olds infer causal relations from patterns of variation and covariation",
+		"title-short": "Causal learning mechanisms in very young children",
+		"volume": "37",
+		"author": [
+			{
+				"family": "Gopnik",
+				"given": "Alison"
+			},
+			{
+				"family": "Sobel",
+				"given": "David M."
+			},
+			{
+				"family": "Schulz",
+				"given": "Laura E."
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/9B8HDCY9",
+		"type": "chapter",
+		"abstract": "A long and still popular tradition in the study of human causal reasoning insists on a dramatic bifurcation between ‘mechanistic’ conceptions of causal inference and ‘probabilistic’ or ‘covariational’ conceptions of this process (e.g. Harre and Madden, 1975; Schultz, 1982; Baumrind, 1983; Turner, 1987; White, 1989,1995; Ahn et al., 1995; Ahn and Bailenson, 1996). What is meant by ‘mechanism’ is rarely specified in this literature, but the examples given make it relatively clear that to specify a ‘mechanism’ for a covariation is simply to specify either a sequence of causes that intervene between the candidate cause and effect, or causes that tend to bring about both the candidate cause and effect, where the causal connections posited in the ‘mechanism’ are of a kind that are already familiar and acknowledged. Baumrind (1983) gives the following illustration:",
+		"container-title": "Rational Mode is of Cognition",
+		"ISBN": "978-0-19-852415-1",
+		"note": "DOI: 10.1093/oso/9780198524151.003.0014",
+		"page": "0",
+		"publisher": "Oxford University Press",
+		"source": "Silverchair",
+		"title": "Causal mechanism and probability: a normative approach",
+		"title-short": "Causal mechanism and probability",
+		"URL": "https://doi.org/10.1093/oso/9780198524151.003.0014",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			},
+			{
+				"family": "Cheng",
+				"given": "Patricia W"
+			}
+		],
+		"editor": [
+			{
+				"family": "Oaksford",
+				"given": "Mike"
+			},
+			{
+				"family": "Chater",
+				"given": "Nick"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2000",
+					11,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/EX8QRSJ2",
+		"type": "paper-conference",
+		"container-title": "Construct validity in psychological measurement: Proceedings of a colloquium on theory and application in education and employment",
+		"publisher": "U.S. Office of Personnel Management and Educational Testing Service",
+		"title": "The good theories do",
+		"URL": "https://books.google.com/books/about/Construct_validity_in_psychological_meas.html?id=udN-AAAAMAAJ",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1908"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/V9KPRZLX",
+		"type": "article-journal",
+		"abstract": "//static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS0140525X00054716/resource/name/firstPage-S0140525X00054716a.jpg",
+		"container-title": "Behavioral and Brain Sciences",
+		"DOI": "10.1017/S0140525X00054716",
+		"ISSN": "1469-1825, 0140-525X",
+		"issue": "4",
+		"language": "en",
+		"page": "590-590",
+		"source": "Cambridge University Press",
+		"title": "ESP and the Big Stuff",
+		"URL": "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/esp-and-the-big-stuff/EB5D053AD29B8C763994C893FAABBE80",
+		"volume": "10",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1987",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/JPIQIFVJ",
+		"type": "article-journal",
+		"abstract": "//static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS0140525X00033410/resource/name/firstPage-S0140525X00033410a.jpg",
+		"container-title": "Behavioral and Brain Sciences",
+		"DOI": "10.1017/S0140525X00033410",
+		"ISSN": "1469-1825, 0140-525X",
+		"issue": "1",
+		"language": "en",
+		"page": "69-70",
+		"source": "Cambridge University Press",
+		"title": "Clarifying the locality assumption",
+		"URL": "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/clarifying-the-locality-assumption/AD89409F90557E61A2804A2CAB41D5DD",
+		"volume": "17",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1994",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/7BCH7JTR",
+		"type": "article-journal",
+		"abstract": "//static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS0140525X00080419/resource/name/firstPage-S0140525X00080419a.jpg",
+		"container-title": "Behavioral and Brain Sciences",
+		"DOI": "10.1017/S0140525X00080419",
+		"ISSN": "1469-1825, 0140-525X",
+		"issue": "4",
+		"language": "en",
+		"page": "606-607",
+		"source": "Cambridge University Press",
+		"title": "Unconscious mental processes",
+		"URL": "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/unconscious-mental-processes/F94CA39FCB51A2C4B8CE82F895E4DD46",
+		"volume": "13",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1990",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/T5FM3FFF",
+		"type": "article-journal",
+		"abstract": "//static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS0140525X00051633/resource/name/firstPage-S0140525X00051633a.jpg",
+		"container-title": "Behavioral and Brain Sciences",
+		"DOI": "10.1017/S0140525X00051633",
+		"ISSN": "1469-1825, 0140-525X",
+		"issue": "4",
+		"language": "en",
+		"page": "655-656",
+		"source": "Cambridge University Press",
+		"title": "Complementing explanation with induction",
+		"URL": "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/complementing-explanation-with-induction/27A968BDDDD16CE3AB83A5BABC37CC4F",
+		"volume": "9",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1986",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/7D7AU7QS",
+		"type": "chapter",
+		"abstract": "One January a few years ago, shortly after the governor of Arizona had been impeached and the Exxon Valdez had spilled its cargo around Port Arthur, I had one of those uncanny experiences reserved for the people who read old news. Paging through the San Jose Mercury for January 1917, I came upon an article describing the impeachment of the governor of Arizona and a report of a large oil spill at Valdez, Alaska. Nietzche, it seems, was on to something, the Eternal Return, the no news under the sun, the history repeats itself sort of thing. I have had similarly uncanny experiences over the last few years reading bits of the literature of cognitive science as it has emerged in our time, and reading in the same years the literature of physiology, psychology, and psychiatry in the closing years of the 19th century. The parallelism is nowhere more striking than with the views of Kinsbourne and Farah (this volume).",
+		"container-title": "Scientific Approaches to Consciousness",
+		"note": "number-of-pages: 5",
+		"publisher": "Psychology Press",
+		"title": "Déjà Vu All Over Again?",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/9N4V3FNU",
+		"type": "article-journal",
+		"abstract": "//static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS0140525X00033112/resource/name/firstPage-S0140525X00033112a.jpg",
+		"container-title": "Behavioral and Brain Sciences",
+		"DOI": "10.1017/S0140525X00033112",
+		"ISSN": "1469-1825, 0140-525X",
+		"issue": "1",
+		"language": "en",
+		"page": "17-18",
+		"source": "Cambridge University Press",
+		"title": "Moral errors",
+		"URL": "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/moral-errors/A367B35EBC5C6B56A18FF40A1EB64B39",
+		"volume": "17",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1994",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/JUXCMISE",
+		"type": "article-journal",
+		"abstract": "//static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS0140525X00019294/resource/name/firstPage-S0140525X00019294a.jpg",
+		"container-title": "Behavioral and Brain Sciences",
+		"DOI": "10.1017/S0140525X00019294",
+		"ISSN": "1469-1825, 0140-525X",
+		"issue": "1",
+		"language": "en",
+		"page": "15-16",
+		"source": "Cambridge University Press",
+		"title": "Fodor's holism",
+		"URL": "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/fodors-holism/56D030002455B587900ECCFD1BEAA12E",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1985",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/TTVNB9LF",
+		"type": "article-journal",
+		"abstract": "//static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS0140525X0008081X/resource/name/firstPage-S0140525X0008081Xa.jpg",
+		"container-title": "Behavioral and Brain Sciences",
+		"DOI": "10.1017/S0140525X0008081X",
+		"ISSN": "1469-1825, 0140-525X",
+		"issue": "4",
+		"language": "en",
+		"page": "666-667",
+		"source": "Cambridge University Press",
+		"title": "Why you'll never know whether Roger Penrose is a computer",
+		"URL": "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/why-youll-never-know-whether-roger-penrose-is-a-computer/7C6520BA0B7FB8E0C110D5DFC0B2D0B8",
+		"volume": "13",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			},
+			{
+				"family": "Kelly",
+				"given": "Kevin"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1990",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/Y4P3677I",
+		"type": "article-journal",
+		"abstract": "Bayesian psychology follows an old instrumentalist tradition most infamously illustrated by Osiander's preface to Copernicus's masterpiece. Jones & Love's (J&L's) criticisms are, if anything, understated, and their proposals overoptimistic.",
+		"container-title": "Behavioral and Brain Sciences",
+		"DOI": "10.1017/S0140525X11000276",
+		"ISSN": "1469-1825, 0140-525X",
+		"issue": "4",
+		"language": "en",
+		"page": "199-200",
+		"source": "Cambridge University Press",
+		"title": "Osiander's psychology",
+		"URL": "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/osianders-psychology/B0BF453D9C8E3FC3B2FFA241DB6804F5",
+		"volume": "34",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/XAMWF2PN",
+		"type": "article-journal",
+		"abstract": "We agree with Cramer et al.'s goal of the discovery of causal relationships, but we argue that the authors' characterization of latent variable models (as deployed for such purposes) overlooks a wealth of extant possibilities. We provide a preliminary analysis of their data, using existing algorithms for causal inference and for the specification of latent variable models.",
+		"container-title": "Behavioral and Brain Sciences",
+		"DOI": "10.1017/S0140525X10000609",
+		"ISSN": "1469-1825, 0140-525X",
+		"issue": "2-3",
+		"language": "en",
+		"page": "153-155",
+		"source": "Cambridge University Press",
+		"title": "Comorbid science?",
+		"URL": "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/comorbid-science1/E7F48554CC54B0E6CAC7F6E748565181",
+		"volume": "33",
+		"author": [
+			{
+				"family": "Danks",
+				"given": "David"
+			},
+			{
+				"family": "Fancsali",
+				"given": "Stephen"
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			},
+			{
+				"family": "Scheines",
+				"given": "Richard"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/U4SZVJBH",
+		"type": "article-journal",
+		"abstract": "Contemporary cognitive neuropsychology attempts to infer unobserved features of normal human cognition, or ‘cognitive architecture’, from experiments with normals and with brain-damaged subjects in whom certain normal cognitive capacities are altered, diminished, or absent. Fundamental methodological issues about the enterprise of cognitive neuropsychology concern the characterization of methods by which features of normal cognitive architecture can be identified from such data, the assumptions upon which the reliability of such methods are premised, and the limits of such methods—even granting their assumptions—in resolving uncertainties about that architecture. With some idealization, the question of the capacities of various experimental designs in cognitive neuropsychology to uncover cognitive architecture can be reduced to comparatively simple questions about the prior assumptions investigators are willing to make. This paper presents some of simplest of those reductions.",
+		"container-title": "The British Journal for the Philosophy of Science",
+		"DOI": "10.1093/bjps/45.3.815",
+		"ISSN": "0007-0882",
+		"issue": "3",
+		"note": "publisher: The University of Chicago Press",
+		"page": "815-835",
+		"source": "journals.uchicago.edu (Atypon)",
+		"title": "On the Methods of Cognitive Neuropsychology",
+		"URL": "https://www.journals.uchicago.edu/doi/10.1093/bjps/45.3.815",
+		"volume": "45",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1994",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/XWIT8E3F",
+		"type": "chapter",
+		"container-title": "The Cognitive Basis of Science",
+		"page": "117–132",
+		"source": "PhilPapers",
+		"title": "Causal Maps and Bayes Nets: A Cognitive and Computational Account of Theory-Formation",
+		"title-short": "Causal Maps and Bayes Nets",
+		"author": [
+			{
+				"family": "Gopnik",
+				"given": "Alison"
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"editor": [
+			{
+				"family": "Carruthers",
+				"given": "Peter"
+			},
+			{
+				"family": "Stich",
+				"given": "Stephen P."
+			},
+			{
+				"family": "Siegal",
+				"given": "Michael"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/VKHIU9SH",
+		"type": "article-journal",
+		"abstract": "I argue that psychologists interested in human causal judgment should understand and adopt a representation of causal mechanisms by directed graphs that encode conditional independence (screening off) relations. I illustrate the benefits of that representation, now widely used in computer science and increasingly in statistics, by (i) showing that a dispute in psychology between ‘mechanist’ and ‘associationist’ psychological theories of causation rests on a false and confused dichotomy; (ii) showing that a recent, much-cited experiment, purporting to show that human subjects, incorrectly let large causes ‘overshadow’ small causes, misrepresents the most likely, and warranted, causal explanation available to the subjects, in the light of which their responses were normative; (iii) showing how a recent psychological theory (due to P. Cheng) of human judgment of causal power can be considerably generalized: and (iv) suggesting a range of possible experiments comparing human and computer abilities to extract causal information from associations.",
+		"container-title": "Minds and Machines",
+		"DOI": "10.1023/A:1008234330618",
+		"ISSN": "1572-8641",
+		"issue": "1",
+		"journalAbbreviation": "Minds and Machines",
+		"language": "en",
+		"page": "39-60",
+		"source": "Springer Link",
+		"title": "Learning Causes: Psychological Explanations of Causal Explanation1",
+		"title-short": "Learning Causes",
+		"URL": "https://doi.org/10.1023/A:1008234330618",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1998",
+					2,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/ZTUSHFRW",
+		"type": "chapter",
+		"abstract": "This chapter offers a brief historical survey of attempts to fathom the physical mechanisms of mind as computational systems, followed by a consideration of some of the concrete versions of underdetermination in contemporary neuropsychology. In the conception of Hermann Helmholtz and his associates, Ernst Brucke and Emil du Bois Reymond and their students, mental phenomena were ultimately a piece of physiology, like breathing, and the ambition of psychology should be to unravel their physical mechanisms, as with any other physiological process. The work of Ramon y Cajal invited the view of the functioning brain as a kind of signaling system, what we would, but they did not, call a computational information processing system. What was needed to reduce structural underdetermination and allow the kind of theory of mind Helmholtz envisioned was a way to see inside the box, to acquire data that would bring theories of cognition closer to physiology and to the neural mechanisms of computation.",
+		"container-title": "The Routledge Handbook of the Computational Mind",
+		"note": "number-of-pages: 10",
+		"publisher": "Routledge",
+		"title": "Helmholtz’s vision: Underdetermination, behavior and the brain",
+		"title-short": "Helmholtz’s vision",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			},
+			{
+				"family": "Sanchez-Romero",
+				"given": "Ruben"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	}
+]
