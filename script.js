@@ -13,10 +13,11 @@ function loadBibliography(jsonFile, containerId) {
       // --- Render entries ---
       data.forEach(entry => {
         const title = entry.title || "";
-        const link = entry.link || "";
+        const link = entry["URL"] || "";
         const year = entry.year || (entry.issued && entry.issued["date-parts"] ? entry.issued["date-parts"][0][0] : "");
         //const pdf = entry.pdf || "";
         const abstract = entry.abstract || "";
+        const journal = entry["container-title"] || "";
 
         // Authors (handle both CSL-JSON and plain string)
         let authors = "";
@@ -36,7 +37,7 @@ function loadBibliography(jsonFile, containerId) {
         const div = document.createElement("div");
         div.className = "entry";
         div.innerHTML = `
-          <h3>${title} (${year})</h3>
+            <h3>${title}${year ? ` (${year})` : ""}${journal ? `, <em>${journal}</em>` : ""}</h3>
           <p><em>${authors}</em></p>
           <p>
             ${link ? `<a href="${link}" target="_blank">[Link]</a>` : ""}
