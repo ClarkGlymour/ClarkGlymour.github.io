@@ -441,6 +441,7 @@
 		"source": "APA PsycNet",
 		"title": "A Theory of Causal Learning in Children: Causal Maps and Bayes Nets",
 		"title-short": "A Theory of Causal Learning in Children",
+		"URL": "https://psycnet.apa.org/doi/10.1037/0033-295X.111.1.3",
 		"volume": "111",
 		"author": [
 			{
@@ -479,6 +480,7 @@
 	{
 		"id": "http://zotero.org/users/5856333/items/2ZCLF9X4",
 		"type": "article-journal",
+		"abstract": "Recent research in cognitive and developmental psychology on acquiring and using causal knowledge uses the causal Bayes net formalism, which simultaneously represents hypotheses about causal relations, probability relations, and effects of interventions. The formalism provides new normative standards for reinterpreting experiments on human judgment, offers a precise interpretation of mechanisms, and allows generalizations of existing theories of causal learning. Combined with hypotheses about learning algorithms, the formalism makes predictions about inferences in many experimental designs beyond the classical, Pavlovian cue→effect design.",
 		"container-title": "Trends in Cognitive Sciences",
 		"DOI": "10.1016/S1364-6613(02)00009-8",
 		"ISSN": "1364-6613, 1879-307X",
@@ -790,6 +792,7 @@
 		"note": "number-of-pages: 5",
 		"publisher": "Psychology Press",
 		"title": "Déjà Vu All Over Again?",
+		"URL": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315806563-24/d%C3%A9j%C3%A0-vu-clark-glymour",
 		"author": [
 			{
 				"family": "Glymour",
@@ -1056,6 +1059,7 @@
 		"source": "PhilPapers",
 		"title": "Causal Maps and Bayes Nets: A Cognitive and Computational Account of Theory-Formation",
 		"title-short": "Causal Maps and Bayes Nets",
+		"URL": "https://www.cambridge.org/core/books/cognitive-basis-of-science/causal-maps-and-bayes-nets-a-cognitive-and-computational-account-of-theoryformation/7B19010448DBD8E26CB935F57A12E2AC",
 		"author": [
 			{
 				"family": "Gopnik",
@@ -1138,6 +1142,7 @@
 		"publisher": "Routledge",
 		"title": "Helmholtz’s vision: Underdetermination, behavior and the brain",
 		"title-short": "Helmholtz’s vision",
+		"URL": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315643670-18/helmholtz-vision-clark-glymour-ruben-sanchez-romero",
 		"author": [
 			{
 				"family": "Glymour",
