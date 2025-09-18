@@ -1,3 +1,4 @@
+console.log("Script loaded");
 fetch("bibliography.json")
   .then(response => response.json())
   .then(data => {
