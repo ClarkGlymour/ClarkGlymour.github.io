@@ -40,7 +40,7 @@ body {
   }
 
   .site-header img.logo {
-    width: 100px;                /* adjust size */
+    width: 300px;                /* adjust size */
     height: auto;               /* keep aspect ratio */
     border-radius: 8px;         /* optional: rounded corners */
     max-width: 20vw;         /* responsive: max 20% of viewport width */
