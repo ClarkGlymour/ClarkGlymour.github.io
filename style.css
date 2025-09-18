@@ -19,3 +19,16 @@ body {
     margin-left: 10px;
     cursor: pointer;
   }
+
+  summary {
+    color: #1E3A8A;       /* deep blue */
+    font-size: 1.4em;     /* make it larger */
+    font-weight: bold;    /* bold */
+    cursor: pointer;      /* hand cursor when hover */
+    margin-top: 20px;
+  }
+  
+  summary::-webkit-details-marker {
+    color: #1E3A8A;       /* make the arrow blue too (Chrome/Safari) */
+  }
+  
