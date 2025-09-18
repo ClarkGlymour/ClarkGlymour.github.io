@@ -118,7 +118,6 @@
 		}
 	},
 	{
-		"category": "Psychology and Neuroscience",
 		"id": "http://zotero.org/users/5856333/items/BXQN5LS9",
 		"type": "article-journal",
 		"abstract": "Recent literature in philosophy of science has addressed purported notions of explanatory virtues—‘explanatory power’, ‘unification’, and ‘coherence’. In each case, a probabilistic relation between a theory and data is said to measure the power of an explanation, or degree of unification, or degree of coherence. This essay argues that the measures do not capture cases that are paradigms of scientific explanation, that the available psychological evidence indicates that the measures do not capture judgements of explanatory power, and, finally, that the measures do not provide useful methods for selecting hypotheses.",
@@ -154,6 +153,7 @@
 					9
 				]
 			]
-		}
+		},
+		"category": "Psychology and Neuroscience"
 	}
 ]
