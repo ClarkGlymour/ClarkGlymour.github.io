@@ -1,0 +1,149 @@
+[
+	{
+		"id": "http://zotero.org/users/5856333/items/N8AYZLVN",
+		"type": "article-journal",
+		"abstract": "The ability to identify the mineral composition of rocks and soils is an important tool for the exploration of geological sites. Even though expert knowledge is commonly used for this task, it is desirable to create automated systems with similar or better performance. For instance, NASA intends to design robots that are sufficiently autonomous to perform this task on planetary missions. Spectrometer readings provide one important source of data for identifying sites with minerals of interest. Reflectance spectrometers measure intensities of light reflected from surfaces over a range of wavelengths. Spectral intensity patterns may in some cases be sufficiently distinctive for proper identification of minerals or classes of minerals. For some mineral classes, carbonates for example, specific short spectral intervals are known to carry a distinctive signature. Finding similar distinctive spectral ranges for other mineral classes is not an easy problem. We propose and evaluate data-driven techniques in two stages: first, evaluating algorithms to identify which components are probably present in a given rock; second, trying to improve this classification by automatically searching for spectral ranges optimized for specific classes of minerals. In one set of studies, we partition the whole interval of wavelengths available in our data into sub-intervals, or bins, and use a genetic algorithm to evaluate a candidate selection of subintervals. As an alternative to these computationally expensive search techniques, we present an entropy-based heuristic that gives higher scores for wavelengths more likely to distinguish between classes. Results are presented for four different classes, showing reasonable improvements in identifying some, but not all, of the mineral classes tested.",
+		"container-title": "Intelligent Data Analysis",
+		"DOI": "10.3233/IDA-2002-6604",
+		"ISSN": "1088-467X",
+		"issue": "6",
+		"language": "EN",
+		"note": "publisher: SAGE Publications",
+		"page": "517-530",
+		"source": "SAGE Journals",
+		"title": "Classification and filtering of spectra: A case study in mineralogy",
+		"title-short": "Classification and filtering of spectra",
+		"URL": "https://journals.sagepub.com/action/showAbstract",
+		"volume": "6",
+		"author": [
+			{
+				"family": "Moody",
+				"given": "Jonathan"
+			},
+			{
+				"family": "Silva",
+				"given": "Ricardo"
+			},
+			{
+				"family": "Vanderwaart",
+				"given": "Joseph"
+			},
+			{
+				"family": "Ramsey",
+				"given": "Joseph"
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2002",
+					11,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/LJFVR2IK",
+		"type": "article-journal",
+		"container-title": "Foundations of space-time theories",
+		"note": "publisher: University of Minnesota Press Minneapolis",
+		"page": "50–60",
+		"source": "Google Scholar",
+		"title": "Indistinguishable space-times and the fundamental group",
+		"URL": "https://books.google.com/books?hl=en&lr=&id=iorglDZWVcwC&oi=fnd&pg=PA50&dq=%E2%80%9CIndistinguishable+Space-Times+and+the+Fundamental+Group,%E2%80%9D+in+Minnesota+Studies+in+the+Philosophy+of+Science,+Vol.+8,&ots=efw-g-42PA&sig=PpbYtH4X8Zb_q5FQdap6_z0OJdg",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1977"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/4ZLIAZ6P",
+		"type": "article-journal",
+		"abstract": "Reflectance spectroscopy is a standard tool for studying the mineral composition of rock and soil samples and for remote sensing of terrestrial and extraterrestrial surfaces. We describe research on automated methods of mineral identification from reflectance spectra and give evidence that a simple algorithm, adapted from a well-known search procedure for Bayes nets, identifies the most frequently occurring classes of carbonates with reliability equal to or greater than that of human experts. We compare the reliability of the procedure to the reliability of several other automated methods adapted to the same purpose. Evidence is given that the procedure can be applied to some other mineral classes as well. Since the procedure is fast with low memory requirements, it is suitable for on-board scientific analysis by orbiters or surface rovers.",
+		"container-title": "Data Mining and Knowledge Discovery",
+		"DOI": "10.1023/A:1015421711749",
+		"ISSN": "1573-756X",
+		"issue": "3",
+		"journalAbbreviation": "Data Mining and Knowledge Discovery",
+		"language": "en",
+		"page": "277-293",
+		"source": "Springer Link",
+		"title": "Automated Remote Sensing with Near Infrared Reflectance Spectra: Carbonate Recognition",
+		"title-short": "Automated Remote Sensing with Near Infrared Reflectance Spectra",
+		"URL": "https://doi.org/10.1023/A:1015421711749",
+		"volume": "6",
+		"author": [
+			{
+				"family": "Ramsey",
+				"given": "Joseph"
+			},
+			{
+				"family": "Gazis",
+				"given": "Paul"
+			},
+			{
+				"family": "Roush",
+				"given": "Ted"
+			},
+			{
+				"family": "Spirtes",
+				"given": "Peter"
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2002",
+					7,
+					1
+				]
+			]
+		}
+	}
+]
