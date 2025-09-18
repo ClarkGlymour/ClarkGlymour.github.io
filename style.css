@@ -32,3 +32,9 @@ body {
     color: #1E3A8A;       /* make the arrow blue too (Chrome/Safari) */
   }
   
+  .site-header {
+    display: flex;              /* put items side by side */
+    align-items: center;        /* vertically align image + text */
+    gap: 15px;                  /* space between image and title */
+    margin-bottom: 20px;
+  }
