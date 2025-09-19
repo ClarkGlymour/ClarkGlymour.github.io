@@ -67,7 +67,7 @@ function loadBibliography(jsonFile, containerId) {
 loadBibliography("bibliography_statcs.json", "statcs");
 loadBibliography("bibliography_physics.json", "physics");
 loadBibliography("bibliography_psychneuro.json", "psychneuro");
-//loadBibliography("bibliography_genomics.json", "genomics");
+loadBibliography("bibliography_genomics.json", "genomics");
 //loadBibliography("bibliography_socialsciences.json", "socialsciences");
 //loadBibliography("bibliography_medicine.json", "medicine");
 //loadBibliography("bibliography_logic.json", "logic");
