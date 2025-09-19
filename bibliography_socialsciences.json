@@ -1,0 +1,388 @@
+[
+	{
+		"id": "http://zotero.org/users/5856333/items/GENG39BJ",
+		"type": "article-journal",
+		"abstract": "The evidence that exposure to media violence causes later aggression derives largely from observational (nonexperimental) studies augmented by short-term experimental studies. The authors review some of the difficulties in causal inference from observational, longitudinal data; examine the extent to which these seem relevant to the empirical work on exposure to televised violence published to date; and present a reanalysis of data from an especially influential study to address one of the more serious limitations of existing analyses. They conclude that the data give evidence that there is likely, although not certainly, a causal connection between exposure to televised violence and adult aggression. The authors close with a brief discussion of policy interventions designed to reduce exposure to violent TV.",
+		"container-title": "American Behavioral Scientist",
+		"DOI": "10.1177/0002764207312020",
+		"ISSN": "0002-7642",
+		"issue": "8",
+		"language": "EN",
+		"note": "publisher: SAGE Publications Inc",
+		"page": "1231-1259",
+		"source": "SAGE Journals",
+		"title": "Watching Social Science: The Debate About the Effects of Exposure to Televised Violence on Aggressive Behavior",
+		"title-short": "Watching Social Science",
+		"URL": "https://doi.org/10.1177/0002764207312020",
+		"volume": "51",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Bruce"
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			},
+			{
+				"family": "Glymour",
+				"given": "Maria"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					19
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2008",
+					4,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/4JP5PCKD",
+		"type": "article-journal",
+		"abstract": "The past two decades have seen a dramatic growth in the use of statisticians and economists for the presentation of expert testimony in legal proceedings. In this paper, we describe a hypothetical case modeled on real ones and involving statistical testimony regarding the causal effect of lead on lowering the IQs of children who ingest lead paint chips. The data we use come from a well-known pioneering study on the topic and the analyses we describe as the expert testimony are similar to ones that can be found in, major scientific journals. The battle of the experts in this hypothetical case resembles that which many encounter as expert witnesses. The paper concludes with some observations and advice.",
+		"collection-title": "Introduction to statistics and econometrics in ligitation support",
+		"container-title": "Journal of Econometrics",
+		"DOI": "10.1016/S0304-4076(02)00165-3",
+		"ISSN": "0304-4076",
+		"issue": "1",
+		"journalAbbreviation": "Journal of Econometrics",
+		"page": "33-48",
+		"source": "ScienceDirect",
+		"title": "Expert statistical testimony and epidemiological evidence: the toxic effects of lead exposure on children",
+		"title-short": "Expert statistical testimony and epidemiological evidence",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S0304407602001653",
+		"volume": "113",
+		"author": [
+			{
+				"family": "Fienberg",
+				"given": "Stephen E."
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			},
+			{
+				"family": "Scheines",
+				"given": "Richard"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					19
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2003",
+					3,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/FX4ACQ5Y",
+		"type": "article-journal",
+		"DOI": "10.7551/mitpress/2006.003.0025",
+		"language": "en",
+		"source": "direct.mit.edu",
+		"title": "Causal Inferences from Databases: Why Universities Lose Students",
+		"title-short": "Causal Inferences from Databases",
+		"URL": "https://direct.mit.edu/books/edited-volume/4789/chapter/218931/Causal-Inferences-from-Databases-Why-Universities",
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					19
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1999",
+					5,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/7PPZ7QA2",
+		"type": "article-journal",
+		"abstract": "Social science was born with the ambition to be social physics. In the hands of Galton, Pearson, and their successors, it became instead a search for causal explanations that are of a different logical kind from the explanations provided by celestial mechanics. Many critics of social science continue to demand that the social sciences produce systematic theories explaining social phenomena from general laws. The demand is inappropriate, and is not satisfied by many sciences that provide causal explanations without providing general laws. The unity of the sciences derives from a common conception of rational inquiry, rather than from sameness of technique or theoretical structure.",
+		"container-title": "Behavioral Science",
+		"DOI": "10.1002/bs.3830280205",
+		"ISSN": "1099-1743",
+		"issue": "2",
+		"language": "en",
+		"license": "Copyright © 1983 John Wiley & Sons, Ltd.",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/bs.3830280205",
+		"page": "126-134",
+		"source": "Wiley Online Library",
+		"title": "Social science and social physics",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/bs.3830280205",
+		"volume": "28",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					19
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1983"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/8C5X2S58",
+		"type": "article-journal",
+		"abstract": "When is a statistical dependency between two variables best explained by the supposition that one of these variables causes the other, as opposed to the supposition that there is a (possibly unmeasured) common cause acting on both variables? In this paper, we describe an approach towards model specification developed more fully in our book Discovering Causal Structure, and illustrate its application to the aforementioned question. Briefly, the approach is to determine constraints satisfied by the variance-covariance matrix of a sample, and then to conduct a quasi-automated search for the causal specifications that will best explain those constraints.",
+		"container-title": "Journal of Econometrics",
+		"DOI": "10.1016/0304-4076(88)90044-9",
+		"ISSN": "0304-4076",
+		"issue": "1",
+		"journalAbbreviation": "Journal of Econometrics",
+		"page": "175-198",
+		"source": "ScienceDirect",
+		"title": "Latent variables, causal models and overidentifying constraints",
+		"URL": "https://www.sciencedirect.com/science/article/pii/0304407688900449",
+		"volume": "39",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			},
+			{
+				"family": "Spirtes",
+				"given": "Peter"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					19
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1988",
+					9,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/X6FBIISP",
+		"type": "article-journal",
+		"container-title": "Sociological Methodology",
+		"DOI": "10.2307/271054",
+		"ISSN": "0081-1750",
+		"note": "publisher: [American Sociological Association, Wiley, Sage Publications, Inc.]",
+		"page": "411-448",
+		"source": "JSTOR",
+		"title": "Exploring Causal Structure with the TETRAD Program",
+		"URL": "https://www.jstor.org/stable/271054",
+		"volume": "18",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			},
+			{
+				"family": "Scheines",
+				"given": "Richard"
+			},
+			{
+				"family": "Spirtes",
+				"given": "Peter"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					19
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1988"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/X48LMVH4",
+		"type": "article-journal",
+		"abstract": "TETRAD II, a fully automated successor to the TETRAD program, is intended to aid in the respecification of underspecified linear causal models, or structural equation models. The performance of TETRAD II is compared with the automatic respecification procedures in the EQS and LISREL VI programs using 360 simulated data sets from nine different linear models containing “latent” or unmeasured variables. LISREL VI and EQS each output a single suggested model; TETRAD II outputs a small list of such models. For these cases, we find that the TETRAD II program, which uses graph algorithms and heuristic search techniques, is more reliable (although less precise) than either EQS or LISREL VI, which use numerical algorithms and beam search techniques. A detailed analysis of the reasons for these differences is offered. Contrary to those who dismiss automated search techniques as unreliable “ransacking” or “data mining,” TETRAD II provides correct information about the true model for 95% of the large sample data sets. The need for further simulation tests and the prospects for the development of automated techniques to aid in the initial specification of causal models for nonexperimental data are discussed.",
+		"container-title": "Sociological Methods & Research",
+		"DOI": "10.1177/0049124190019001001",
+		"ISSN": "0049-1241",
+		"issue": "1",
+		"language": "EN",
+		"note": "publisher: SAGE Publications Inc",
+		"page": "3-66",
+		"source": "SAGE Journals",
+		"title": "Simulation Studies of the Reliability of Computer-Aided Model Specification Using the TETRAD II, EQS, and LISREL Programs",
+		"URL": "https://doi.org/10.1177/0049124190019001001",
+		"volume": "19",
+		"author": [
+			{
+				"family": "SPIRTES",
+				"given": "PETER"
+			},
+			{
+				"family": "SCHEINES",
+				"given": "RICHARD"
+			},
+			{
+				"family": "GLYMOUR",
+				"given": "CLARK"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					19
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1990",
+					8,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/KREHTHLS",
+		"type": "article-journal",
+		"abstract": "A linear structural equation model (SEM) without free parameters has two parts: a probability distribution and an associated path diagram corresponding to the causal relations among variables specified by the structural equations and the correlations among the error terms. This article shows how path diagrams can be used to solve a number of important problems in structural equation modeling; for example, How much do sample data underdetermine the correct model specification? Given that there are equivalent models, is it possible to extract the features common to those models? When a modeler draws conclusions about coefficients in an unknown underlying SEM from a multivariate regression, precisely what assumptions are being made about the SEM? The authors explain how the path diagram provides much more than heuristics for special cases; the theory of path diagrams helps to clarify several of the issues just noted.",
+		"container-title": "Sociological Methods & Research",
+		"DOI": "10.1177/0049124198027002003",
+		"ISSN": "0049-1241",
+		"issue": "2",
+		"language": "EN",
+		"note": "publisher: SAGE Publications Inc",
+		"page": "182-225",
+		"source": "SAGE Journals",
+		"title": "Using Path Diagrams as a Structural Equation Modeling Tool",
+		"URL": "https://doi.org/10.1177/0049124198027002003",
+		"volume": "27",
+		"author": [
+			{
+				"family": "SPIRTES",
+				"given": "PETER"
+			},
+			{
+				"family": "RICHARDSON",
+				"given": "THOMAS"
+			},
+			{
+				"family": "MEEK",
+				"given": "CHRISTOPHER"
+			},
+			{
+				"family": "SCHEINES",
+				"given": "RICHARD"
+			},
+			{
+				"family": "GLYMOUR",
+				"given": "CLARK"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					19
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1998",
+					11,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/P7F9LU6I",
+		"type": "paper-conference",
+		"abstract": "We applied TETRAD II, a causal discovery program developed in Carnegie Mellon University’s Department of Philosophy, to a database containing information on 204 U.S. colleges, collected by the US News and World Report magazine for the purpose of college ranking. Our analysis focuses on possible causes of low freshmen retention in U.S. colleges. TETRAD II finds a set of causal structures that are compatible with the data. One apparently robust finding is that student retention is directly related to the average test scores and high school class standing of the incoming freshmen. When test scores and class standing are controlled for, factors such as student faculty ratio, faculty salary, and university’s educational expenses per student are all independent of both retention and graduation rates, and, therefore, do not seem to directly influence student retention. Furthermore, simple linear regression applied to test scores, class standing, and retention data showed that the test scores and class standing explain 52.6% of the variance in freshmen retention rate and 62.5% of the variance in graduation rate (test scores alone explain 50.5% and 62.0% respectively). This result becomes even stronger when computed for the group of top ranking colleges -- regression applied to a group of 41 top ranking colleges showed explanation of 68.3% of the variance in freshmen retention rate and 77.0% in graduation rate (66.6% and 75% respectively for test scores alone). As the test scores and classtanding are both indicators of the overall quality of the incoming students, we predict that one of the most effective ways of improving student retention in an individual college is increasing the college’s selectivity. High selectivity will lead to higher quality of the incoming students and, effectively, to higher retention rate.",
+		"container-title": "AAAI Workshop on Knowledge Discovery in Databases",
+		"language": "en-US",
+		"title": "Application of the TETRAD II Program to the Study of Student Retention in U.S. Colleges",
+		"URL": "https://aaai.org/papers/419-ws94-03-036/",
+		"author": [
+			{
+				"family": "Marek J. Druzdze",
+				"given": "Clark Glymour"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					19
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	}
+]
