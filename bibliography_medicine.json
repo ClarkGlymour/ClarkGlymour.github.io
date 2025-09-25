@@ -1,0 +1,239 @@
+[
+	{
+		"id": "http://zotero.org/users/5856333/items/KCTLMB94",
+		"type": "book",
+		"call-number": "R733 .E93 1985",
+		"event-place": "Buffalo, N.Y",
+		"ISBN": "978-0-87975-303-0",
+		"language": "eng",
+		"number-of-pages": "406",
+		"publisher": "Prometheus Books",
+		"publisher-place": "Buffalo, N.Y",
+		"source": "arizona-ua.primo.exlibrisgroup.com",
+		"title": "Examining holistic medicine",
+		"URL": "http://archive.org/details/examiningholisti0000unse_w1i5",
+		"author": [
+			{
+				"family": "Stalker",
+				"given": "Douglas Frank"
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark N."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1985"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/UF5M4XAZ",
+		"type": "article-journal",
+		"abstract": "Medicine in industrialized nations is scientific medicine. The claim tacitly made by American or European physicians, and tacitly relied on by their patients, is that their palliatives and procedures have been shown by science to be effective. Although the physician's medical practice is not itself science, it is based on science and on training that is supposed to teach physicians to apply scientific knowledge to people in a rational way. The practice of medicine in the United States and in other industrialized nations is a form of consultant engineering. The subjects are people rather than bridges, but in many respects . . .",
+		"container-title": "New England Journal of Medicine",
+		"DOI": "10.1056/NEJM198304213081611",
+		"ISSN": "0028-4793",
+		"issue": "16",
+		"note": "publisher: Massachusetts Medical Society\n_eprint: https://www.nejm.org/doi/pdf/10.1056/NEJM198304213081611",
+		"page": "960-964",
+		"source": "Taylor and Francis+NEJM",
+		"title": "Engineers, Cranks, Physicians, Magicians",
+		"URL": "https://www.nejm.org/doi/full/10.1056/NEJM198304213081611",
+		"volume": "308",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			},
+			{
+				"family": "Stalker",
+				"given": "Douglas"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1983",
+					4,
+					21
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/DA9T8PF7",
+		"type": "article-journal",
+		"abstract": "purpose. Machine-learning classifiers are trained computerized systems with the ability to detect the relationship between multiple input parameters and a diagnosis. The present study investigated whether the use of machine-learning classifiers improves optical coherence tomography (OCT) glaucoma detection.  methods. Forty-seven patients with glaucoma (47 eyes) and 42 healthy subjects (42 eyes) were included in this cross-sectional study. Of the glaucoma patients, 27 had early disease (visual field mean deviation [MD] ≥ −6 dB) and 20 had advanced glaucoma (MD &lt; −6 dB). Machine-learning classifiers were trained to discriminate between glaucomatous and healthy eyes using parameters derived from OCT output. The classifiers were trained with all 38 parameters as well as with only 8 parameters that correlated best with the visual field MD. Five classifiers were tested: linear discriminant analysis, support vector machine, recursive partitioning and regression tree, generalized linear model, and generalized additive model. For the last two classifiers, a backward feature selection was used to find the minimal number of parameters that resulted in the best and most simple prediction. The cross-validated receiver operating characteristic (ROC) curve and accuracies were calculated.  results. The largest area under the ROC curve (AROC) for glaucoma detection was achieved with the support vector machine using eight parameters (0.981). The sensitivity at 80% and 95% specificity was 97.9% and 92.5%, respectively. This classifier also performed best when judged by cross-validated accuracy (0.966). The best classification between early glaucoma and advanced glaucoma was obtained with the generalized additive model using only three parameters (AROC = 0.854).  conclusions. Automated machine classifiers of OCT data might be useful for enhancing the utility of this technology for detecting glaucomatous abnormality.",
+		"container-title": "Investigative Ophthalmology & Visual Science",
+		"DOI": "10.1167/iovs.05-0366",
+		"ISSN": "1552-5783",
+		"issue": "11",
+		"journalAbbreviation": "Invest. Ophthalmol. Vis. Sci.",
+		"page": "4147-4152",
+		"source": "Silverchair",
+		"title": "Optical Coherence Tomography Machine Learning Classifiers for Glaucoma Detection: A Preliminary Study",
+		"title-short": "Optical Coherence Tomography Machine Learning Classifiers for Glaucoma Detection",
+		"URL": "https://doi.org/10.1167/iovs.05-0366",
+		"volume": "46",
+		"author": [
+			{
+				"family": "Burgansky-Eliash",
+				"given": "Zvia"
+			},
+			{
+				"family": "Wollstein",
+				"given": "Gadi"
+			},
+			{
+				"family": "Chu",
+				"given": "Tianjiao"
+			},
+			{
+				"family": "Ramsey",
+				"given": "Joseph D."
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			},
+			{
+				"family": "Noecker",
+				"given": "Robert J."
+			},
+			{
+				"family": "Ishikawa",
+				"given": "Hiroshi"
+			},
+			{
+				"family": "Schuman",
+				"given": "Joel S."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2005",
+					11,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/YJLXRXVD",
+		"type": "article-journal",
+		"abstract": "This paper describes the application of eight statistical and machine-learning methods to derive computer models for predicting mortality of hospital patients with pneumonia from their findings at initial presentation. The eight models were each constructed based on 9847 patient cases and they were each evaluated on 4352 additional cases. The primary evaluation metric was the error in predicted survival as a function of the fraction of patients predicted to survive. This metric is useful in assessing a model's potential to assist a clinician in deciding whether to treat a given patient in the hospital or at home. We examined the error rates of the models when predicting that a given fraction of patients will survive. We examined survival fractions between 0.1 and 0.6. Over this range, each model's predictive error rate was within 1% of the error rate of every other model. When predicting that approximately 30% of the patients will survive, all the models have an error rate of less than 1.5%. The models are distinguished more by the number of variables and parameters that they contain than by their error rates; these differences suggest which models may be the most amenable to future implementation as paper-based guidelines.",
+		"container-title": "Artificial Intelligence in Medicine",
+		"DOI": "10.1016/S0933-3657(96)00367-3",
+		"ISSN": "0933-3657",
+		"issue": "2",
+		"journalAbbreviation": "Artificial Intelligence in Medicine",
+		"page": "107-138",
+		"source": "ScienceDirect",
+		"title": "An evaluation of machine-learning methods for predicting pneumonia mortality",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S0933365796003673",
+		"volume": "9",
+		"author": [
+			{
+				"family": "Cooper",
+				"given": "Gregory F."
+			},
+			{
+				"family": "Aliferis",
+				"given": "Constantin F."
+			},
+			{
+				"family": "Ambrosino",
+				"given": "Richard"
+			},
+			{
+				"family": "Aronis",
+				"given": "John"
+			},
+			{
+				"family": "Buchanan",
+				"given": "Bruce G."
+			},
+			{
+				"family": "Caruana",
+				"given": "Richard"
+			},
+			{
+				"family": "Fine",
+				"given": "Michael J."
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			},
+			{
+				"family": "Gordon",
+				"given": "Geoffrey"
+			},
+			{
+				"family": "Hanusa",
+				"given": "Barbara H."
+			},
+			{
+				"family": "Janosky",
+				"given": "Janine E."
+			},
+			{
+				"family": "Meek",
+				"given": "Christopher"
+			},
+			{
+				"family": "Mitchell",
+				"given": "Tom"
+			},
+			{
+				"family": "Richardson",
+				"given": "Thomas"
+			},
+			{
+				"family": "Spirtes",
+				"given": "Peter"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1997",
+					2,
+					1
+				]
+			]
+		}
+	}
+]

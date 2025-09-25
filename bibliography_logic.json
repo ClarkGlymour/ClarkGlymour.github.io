@@ -1,0 +1,124 @@
+[
+	{
+		"id": "http://zotero.org/users/5856333/items/M7IANBDS",
+		"type": "article-journal",
+		"container-title": "Journal of Philosophical Logic",
+		"ISSN": "0022-3611",
+		"issue": "1",
+		"note": "publisher: Springer",
+		"page": "16-28",
+		"source": "JSTOR",
+		"title": "If Quanta Had Logic",
+		"URL": "https://www.jstor.org/stable/30221794",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Friedman",
+				"given": "Michael"
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1972"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/XJD23TPI",
+		"type": "article-journal",
+		"abstract": "Convergent realists desire scientific methods that converge reliably to informative, true theories over a wide range of theoretical possibilities. Much attention has been paid to the problem of induction from quantifier-free data. In this paper, we employ the techniques of formal learning theory and model theory to explore the reliable inference of theories from data containing alternating quantifiers. We obtain a hierarchy of inductive problems depending on the quantifier prefix complexity of the formulas that constitute the data, and we provide bounds relating the quantifier prefix complexity of the data to the quantifier prefix complexity of the theories that can be reliably inferred from such data without background knowledge. We also examine the question whether there are theories with mixed quantifiers that can be reliably inferred with closed, universal formulas in the data, but not without.",
+		"container-title": "Journal of Philosophical Logic",
+		"DOI": "10.1007/BF00211184",
+		"ISSN": "1573-0433",
+		"issue": "1",
+		"journalAbbreviation": "J Philos Logic",
+		"language": "en",
+		"page": "1-33",
+		"source": "Springer Link",
+		"title": "Theory discovery from data with mixed quantifiers",
+		"URL": "https://doi.org/10.1007/BF00211184",
+		"volume": "19",
+		"author": [
+			{
+				"family": "Kelly",
+				"given": "Kevin T."
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1990",
+					2,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/PGSEF52G",
+		"type": "article-journal",
+		"container-title": "Journal of Philosophical Logic",
+		"ISSN": "0022-3611",
+		"issue": "4",
+		"note": "publisher: Springer",
+		"page": "391-444",
+		"source": "JSTOR",
+		"title": "Inductive Inference from Theory Laden Data",
+		"URL": "https://www.jstor.org/stable/30226484",
+		"volume": "21",
+		"author": [
+			{
+				"family": "Kelly",
+				"given": "Kevin T."
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	}
+]

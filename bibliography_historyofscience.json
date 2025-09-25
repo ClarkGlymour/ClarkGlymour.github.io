@@ -1,0 +1,261 @@
+[
+	{
+		"id": "http://zotero.org/users/5856333/items/84YHWZYQ",
+		"type": "chapter",
+		"abstract": "CONTENTS\n2.1 The Conflicts 112.1.1 Astronomy 11\n2.2 Planetary Theory from Data Mining: Ptolemy, Copernicus, Kepler, Newton 12\n2.3 Computation and Estimation: From Boscovitch to Legendre 13\n2.4 From Philosophical Skepticism to Bayesian Inference: Hume, Bayes, and Price 15\n2.5 Early Planet Hunting 17\n2.6 Bayesian Statistics, Data Mining, and the Classical Tests of General Relativity 18\n2.7 Statisticians Become Philosophers 22\n2.8 The Digital Revolution 24\n2.9 Statistics and Machine Learning Meet One Another 25\n2.10 A Brief Reflection 262.1 THE CONFLICTS\n2.1.1 Astronomy\nOur first and purest science, the mother of scientific methods, sustained by sheer curiosity,\nsearching the heavens we cannot manipulate. From the beginning, astronomy has combined mathematical idealization, technological ingenuity, and indefatigable data collection\nwith procedures to search through assembled data for the processes that govern the cosmos.\nAstronomers are, and ever have been, data miners, and for that reason astronomical methods\n(but not astronomical discoveries) have often been despised by statisticians and philosophers. Epithets laced the statistical literature: Ransacking! Data dredging! Double Counting!\nStatistical disdain was usually directed at social scientists and biologists, rarely if ever\nat astronomers, but the methodological attitudes and goals that many twentieth-century\nphilosophers and statisticians rejected were creations of the astronomical tradition. Thephilosophical criticisms were earlier and more direct. In the shadow (or in Alexander Pope’s\nphrasing, the light) cast on nature in the eighteenth century by the Newtonian triumph,\nDavid Hume revived arguments from the ancient Greeks to challenge the very possibility of\ncoming to know what causes what. His conclusion was endorsed in the twentieth century by\nmany philosophers who found talk of causation unnecessary or unacceptably metaphysical,\nand absorbed by many statisticians as a general suspicion of causal claims, except possibly\nwhen they are founded on experimental manipulation. And yet in the hands of a mathematician, Thomas Bayes, and another mathematician and philosopher, Richard Price, Hume’s\nessays prompted the development of a new kind of statistics, the kind we now call“Bayesian.”",
+		"container-title": "Advances in Machine Learning and Data Mining for Astronomy",
+		"note": "number-of-pages: 16",
+		"publisher": "Chapman and Hall/CRC",
+		"title": "Searching the Heavens: Astronomy, Computation, Statistics, Data Mining, and Philosophy",
+		"title-short": "Searching the Heavens",
+		"URL": "https://www.taylorfrancis.com/chapters/mono/10.1201/b11822-8/searching-heavens-astronomy-computation-statistics-data-mining-philosophy-michael-way-jeffrey-scargle-kamal-ali-ashok-srivastava?context=ubx&refId=dab3c4b3-c543-47b9-9221-e4067395ee87",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"editor": [
+			{
+				"family": "Way",
+				"given": "Michael J."
+			},
+			{
+				"family": "Scargle",
+				"given": "Jeffrey D."
+			},
+			{
+				"family": "Ali",
+				"given": "Kamal M."
+			},
+			{
+				"family": "Srivastava",
+				"given": "Ashok N."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/X74W6MT8",
+		"type": "article-journal",
+		"container-title": "Studies in History and Philosophy of Science Part A",
+		"DOI": "10.1016/0039-3681(78)90008-0",
+		"ISSN": "0039-3681",
+		"issue": "4",
+		"journalAbbreviation": "Studies in History and Philosophy of Science Part A",
+		"page": "251-278",
+		"source": "ScienceDirect",
+		"title": "Lost in the tensors: Einstein's struggles with covariance principles 1912–1916",
+		"title-short": "Lost in the tensors",
+		"URL": "https://www.sciencedirect.com/science/article/pii/0039368178900080",
+		"volume": "9",
+		"author": [
+			{
+				"family": "Earman",
+				"given": "John"
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1978",
+					12,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/BJTJ9RW8",
+		"type": "article-journal",
+		"container-title": "Archive for History of Exact Sciences",
+		"DOI": "10.1007/BF00357583",
+		"ISSN": "1432-0657",
+		"issue": "3",
+		"journalAbbreviation": "Arch. Hist. Exact Sci.",
+		"language": "en",
+		"page": "291-308",
+		"source": "Springer Link",
+		"title": "Einstein and Hilbert: Two months in the history of general relativity",
+		"title-short": "Einstein and Hilbert",
+		"URL": "https://doi.org/10.1007/BF00357583",
+		"volume": "19",
+		"author": [
+			{
+				"family": "Earman",
+				"given": "John"
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1978",
+					9,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/2XI94ZVW",
+		"type": "article-journal",
+		"container-title": "Historical Studies in the Physical Sciences",
+		"DOI": "10.2307/27757471",
+		"ISSN": "0073-2672",
+		"issue": "1",
+		"note": "publisher: University of California Press",
+		"page": "49-85",
+		"source": "JSTOR",
+		"title": "Relativity and Eclipses: The British Eclipse Expeditions of 1919 and Their Predecessors",
+		"title-short": "Relativity and Eclipses",
+		"URL": "https://www.jstor.org/stable/27757471",
+		"volume": "11",
+		"author": [
+			{
+				"family": "Earman",
+				"given": "John"
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1980"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/U4E5W9TW",
+		"type": "article-journal",
+		"container-title": "Studies in History and Philosophy of Science Part A",
+		"DOI": "10.1016/0039-3681(80)90025-4",
+		"ISSN": "0039-3681",
+		"issue": "3",
+		"journalAbbreviation": "Studies in History and Philosophy of Science Part A",
+		"page": "175-214",
+		"source": "ScienceDirect",
+		"title": "The gravitational red shift as a test of general relativity: History and analysis",
+		"title-short": "The gravitational red shift as a test of general relativity",
+		"URL": "https://www.sciencedirect.com/science/article/pii/0039368180900254",
+		"volume": "11",
+		"author": [
+			{
+				"family": "Earman",
+				"given": "John"
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1980",
+					9,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/ZB26I425",
+		"type": "article-journal",
+		"abstract": "Einstein himself had a few words to say about the writing of the history of science. From the first of his famous conversations with Einstein, Robert Shankland relates: “Then he gave me his ideas on historical writing of science. ‘Nearly all historians of science are philologists and do not comprehend what physicists were aiming at, how they thought and wrestled with their problems… .’ The struggle with their:problems, their trying everything to find a solution which came at last often by very indirect means, is the correct picture.” (Shankland 1963, p. 50).Why should we take these words seriously? After all, Einstein was not an historian, and, unless we are to pose him as an authority on every topic, these comments represent but a personal opinion. This, however, is precisely why they should be taken seriously, if we are interested in the history of Einstein's own accomplishments.",
+		"container-title": "PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association",
+		"DOI": "10.1086/psaprocbienmeetp.1982.2.192433",
+		"ISSN": "0270-8647, 2327-9486",
+		"issue": "2",
+		"language": "en",
+		"page": "403-416",
+		"source": "Cambridge University Press",
+		"title": "On Writing the History of Special Relativity",
+		"URL": "https://www.cambridge.org/core/journals/psa-proceedings-of-the-biennial-meeting-of-the-philosophy-of-science-association/article/abs/on-writing-the-history-of-special-relativity/B39567EE2A76BDE10AB6EF8F40CF9879",
+		"volume": "1982",
+		"author": [
+			{
+				"family": "Earman",
+				"given": "John"
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			},
+			{
+				"family": "Rynasiewicz",
+				"given": "Robert"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1982",
+					1
+				]
+			]
+		}
+	}
+]
