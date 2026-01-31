@@ -1,0 +1,49 @@
+[
+	{
+		"id": "http://zotero.org/users/5856333/items/4482I9EJ",
+		"type": "chapter",
+		"container-title": "Physical Theory and its Interpretation: Essays in Honor of Jeffrey Bub",
+		"event-place": "Dordrecht",
+		"ISBN": "978-1-4020-4876-0",
+		"language": "en",
+		"note": "DOI: 10.1007/1-4020-4876-9_5",
+		"page": "117-126",
+		"publisher": "Springer Netherlands",
+		"publisher-place": "Dordrecht",
+		"source": "Springer Link",
+		"title": "Markov Properties and Quantum Experiments",
+		"URL": "https://link.springer.com/chapter/10.1007/1-4020-4876-9_5",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"editor": [
+			{
+				"family": "Demopoulos",
+				"given": "William"
+			},
+			{
+				"family": "Pitowsky",
+				"given": "Itamar"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					1,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	}
+]

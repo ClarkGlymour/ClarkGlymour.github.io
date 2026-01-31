@@ -73,4 +73,4 @@ loadBibliography("bibliography_medicine.json", "medicine");
 loadBibliography("bibliography_logic.json", "logic");
 loadBibliography("bibliography_historyofscience.json", "historyofscience");
 //loadBibliography("bibliography_popular.json", "popular");
-//loadBibliography("bibliography_philosophy.json", "philosophy");
+loadBibliography("bibliography_philosophy.json", "philosophy");
