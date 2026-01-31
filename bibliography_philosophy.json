@@ -3,10 +3,9 @@
 		"id": "http://zotero.org/users/5856333/items/4482I9EJ",
 		"type": "chapter",
 		"container-title": "Physical Theory and its Interpretation: Essays in Honor of Jeffrey Bub",
-		"event-place": "Dordrecht",
+		"DOI": "10.1007/1-4020-4876-9_5",
 		"ISBN": "978-1-4020-4876-0",
 		"language": "en",
-		"note": "DOI: 10.1007/1-4020-4876-9_5",
 		"page": "117-126",
 		"publisher": "Springer Netherlands",
 		"publisher-place": "Dordrecht",
@@ -42,6 +41,554 @@
 			"date-parts": [
 				[
 					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/YJBWITJA",
+		"type": "chapter",
+		"abstract": "There are at least two aspects to understanding: comprehensibility and veracity. Good explanations are supposed to aid the first and to give grounds for believing the second – to provide insight into the “hidden springs” that produce phenomena and to warrant that our estimates of such structures are correct enough. For Copernicus, Kepler, Newton, Dalton, and Einstein, the virtues of explanations were guides to discovery, to sorting among hypotheses and forming beliefs. The virtues were variously named: simplicity, harmony, unity, elegance, and determinacy. These explanatory virtues have never been well articulated, but what makes them contributions to perspicacity is sometimes apparent, while what makes them a guide to truth is obscure.We know that under various assumptions there is a connection between testing – doing something that could reveal the falsity of various claims – and the second aspect of coming to understand. Various forms of testing can be stages in strategies that reliably converge on the truth, and some cases even provide probabilistic guarantees that the truth is not too far away. But how can explaining be any kind of reliable guide to any truth worth knowing? What structure or content of thoughts or acts distinguishes explanations, and in virtue of what, if anything, are explanations indications of truth that should prompt belief in their content, or provide a guide in inquiry?",
+		"container-title": "Error and Inference: Recent Exchanges on Experimental Reasoning, Reliability, and the Objectivity and Rationality of Science",
+		"DOI": "10.1017/CBO9780511657528.010",
+		"ISBN": "978-0-521-88008-4",
+		"page": "331-375",
+		"publisher": "Cambridge University Press",
+		"publisher-place": "Cambridge",
+		"source": "Cambridge University Press",
+		"title": "Causal Modeling, Explanation and Severe Testing",
+		"URL": "https://www.cambridge.org/core/books/error-and-inference/causal-modeling-explanation-and-severe-testing/BCE517D10FBA236ECB2F35C8F7F76208",
+		"editor": [
+			{
+				"family": "Spanos",
+				"given": "Aris"
+			},
+			{
+				"family": "Mayo",
+				"given": "Deborah G."
+			}
+		],
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			},
+			{
+				"family": "Mayo",
+				"given": "Deborah G."
+			},
+			{
+				"family": "Spanos",
+				"given": "Aris"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					1,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/PKKTKJBU",
+		"type": "chapter",
+		"abstract": "Reichenbach states that an inductive logic cannot be built up entirely from logical principles independent of experience, but must develop out of the reasoning practiced and useful to the natural sciences. Inductive inference system needs to be built on some solid to guide scientific methodology. This chapter describes Reichenbach's reasons for stating the inverse approach for inductive logic. Instead of “a priori” foundation of inductive logic, Reichenbach's approach to induction is largely axiomatic. Reichenbach distinguishes deductive and mathematical logic from inductive logic. The former deals with the relations among tautologies, whereas the latter deals with truth in the sense of truth in reality. Deductive and mathematical logic are built on an axiomatic system. In contrast to the formal relations that are of interest in deductive logic, inductive logic is concerned with the determination of whether various relations among quantities are true in the world.",
+		"container-title": "Handbook of the History of Logic",
+		"DOI": "10.1016/B978-0-444-52936-7.50010-0",
+		"ISSN": "1874-5857",
+		"language": "en-US",
+		"page": "357-389",
+		"publisher": "North-Holland",
+		"source": "www.sciencedirect.com",
+		"title": "Hans Reichenbach's Probability Logic",
+		"URL": "https://www.sciencedirect.com/science/chapter/handbook/abs/pii/B9780444529367500100",
+		"volume": "10",
+		"author": [
+			{
+				"family": "Eberhardt",
+				"given": "Frederick"
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					1,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/MEPICT2G",
+		"type": "article-journal",
+		"abstract": "Time series of macroscopic quantities that are aggregates of microscopic quantities, with unknown one-many relations between macroscopic and microscopic states, are common in applied sciences, from economics to climate studies. When such time series of macroscopic quantities are claimed to be causal, the causal relations postulated are representable by a directed acyclic graph and associated probability distribution—sometimes called a dynamical Bayes net. Causal interpretations of such series imply claims that hypothetical manipulations of macroscopic variables have unambiguous effects on variables “downstream” in the graph, and such macroscopic variables may be predictably produced or altered even while particular microstates are not. This paper argues that such causal time series of macroscopic aggregates of microscopic processes are the appropriate model for mental causation.",
+		"container-title": "Philosophy of Science",
+		"DOI": "10.1086/521968",
+		"ISSN": "0031-8248, 1539-767X",
+		"issue": "3",
+		"language": "en",
+		"page": "330-346",
+		"source": "Cambridge University Press",
+		"title": "When Is a Brain Like the Planet?",
+		"URL": "https://www.cambridge.org/core/journals/philosophy-of-science/article/when-is-a-brain-like-the-planet/FAF621D17E95AA69C8696F7136B58E71",
+		"volume": "74",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					1,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2007",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/LYLW8D8I",
+		"type": "chapter",
+		"container-title": "Causation and Explanation",
+		"language": "en",
+		"source": "direct.mit.edu",
+		"title": "Actual Causes and Thought Experiments",
+		"URL": "https://doi.org/10.7551/mitpress/1753.003.0005",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			},
+			{
+				"family": "Wimberly",
+				"given": "Frank"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					1,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2007",
+					8,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/XALMBRL9",
+		"type": "chapter",
+		"container-title": "Probability and Inference. Essays in Honor of Henry E. Kyburg Jr",
+		"edition": "College Publications",
+		"page": "123–141",
+		"source": "Google Scholar",
+		"title": "Bayesian ptolemaic psychology",
+		"URL": "https://perception.jhu.edu/chaz/teaching/courses/tp/files/readings/7/Glymour_2007___Bayesian_ptolemaic_psychology.pdf",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					1,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/TNVQZBMT",
+		"type": "article-journal",
+		"container-title": "The Journal of philosophy",
+		"issue": "9",
+		"page": "464–474",
+		"publisher": "JSTOR",
+		"source": "Google Scholar",
+		"title": "Reasons as causes in Bayesian epistemology",
+		"URL": "https://www.jstor.org/stable/20620044",
+		"volume": "104",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			},
+			{
+				"family": "Danks",
+				"given": "David"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					1,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/N4UTVI3X",
+		"type": "article-journal",
+		"abstract": "In an essay recently published in this journal, Branden Fitelson argues that a variant of Miller's argument for the language dependence of the accuracy of predictions can be applied to Joyce's notion of accuracy of credences formulated in terms of scoring rules, resulting in a general potential problem for Joyce's argument for probabilism. We argue that no relevant problem of the sort Fitelson supposes arises since his main theorem and his supporting arguments presuppose the validity of nonlinear transformations of credence functions that Joyce's theory, charitably construed, would identify as invalid on the basis of the principle of simple dominance.",
+		"container-title": "Philosophy of Science",
+		"DOI": "10.1086/667997",
+		"ISSN": "0031-8248, 1539-767X",
+		"issue": "4",
+		"language": "en",
+		"page": "561-574",
+		"source": "Cambridge University Press",
+		"title": "What Language Dependence Problem? A Reply for Joyce to Fitelson on Joyce",
+		"title-short": "What Language Dependence Problem?",
+		"URL": "https://www.cambridge.org/core/journals/philosophy-of-science/article/what-language-dependence-problem-a-reply-for-joyce-to-fitelson-on-joyce/31B3C59CF9F5AC47F028D8D77F540416",
+		"volume": "79",
+		"author": [
+			{
+				"family": "Pedersen",
+				"given": "Arthur Paul"
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					1,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/ZNQXMH5Q",
+		"type": "article-journal",
+		"abstract": "Nancy Cartwright's recent criticisms of efforts and methods to obtain causal information from sample data using automated search are considered. In addition to reviewing that effort, I argue that almost all of her criticisms are false and rest on misreading, overgeneralization, or neglect of the relevant literature. 1.  Introduction2.  Cartwright's Claims, and Their Errors3.  Problems of Causal Inference4.  Context5.  Graphical Causal Models and Markov Properties6.  Interventions, Experiments, and Randomization7.  Search for Causal Explanations 7.1.  The PC algorithm7.2.  The Fast Causal Inference algorithm7.3.  ION and iMAGES7.4.  Build pure clusters and MimBuild7.5.  Measurement error and mixed methods7.6.  Time series7.7.  LiNGAM8.  Cartwright's Objections Again9.  Conclusion",
+		"container-title": "The British Journal for the Philosophy of Science",
+		"DOI": "10.1093/bjps/axp039",
+		"ISSN": "0007-0882",
+		"issue": "1",
+		"page": "161-211",
+		"publisher": "The University of Chicago Press",
+		"source": "journals.uchicago.edu (Atypon)",
+		"title": "What Is Right with ‘Bayes Net Methods’ and What Is Wrong with                         ‘Hunting Causes and Using Them’?",
+		"URL": "https://www.journals.uchicago.edu/doi/full/10.1093/bjps/axp039",
+		"volume": "61",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					1,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/URURDBFQ",
+		"type": "article-journal",
+		"container-title": "Philosophy of Science",
+		"issue": "2",
+		"page": "286–297",
+		"publisher": "Cambridge University Press",
+		"source": "Google Scholar",
+		"title": "Theoretical equivalence and the semantic view of theories",
+		"URL": "https://doi.org/10.1086/670261",
+		"volume": "80",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					1,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/B373SXR7",
+		"type": "article-journal",
+		"abstract": "Recent literature in philosophy of science has addressed purported notions of explanatory virtues—‘explanatory power’, ‘unification’, and ‘coherence’. In each case, a probabilistic relation between a theory and data is said to measure the power of an explanation, or degree of unification, or degree of coherence. This essay argues that the measures do not capture cases that are paradigms of scientific explanation, that the available psychological evidence indicates that the measures do not capture judgements of explanatory power, and, finally, that the measures do not provide useful methods for selecting hypotheses.",
+		"container-title": "The British Journal for the Philosophy of Science",
+		"DOI": "10.1093/bjps/axt051",
+		"ISSN": "0007-0882, 1464-3537",
+		"issue": "3",
+		"journalAbbreviation": "The British Journal for the Philosophy of Science",
+		"language": "en",
+		"page": "591-604",
+		"source": "DOI.org (Crossref)",
+		"title": "Probability and the Explanatory Virtues",
+		"URL": "https://www.journals.uchicago.edu/doi/10.1093/bjps/axt051",
+		"volume": "66",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					1,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					9,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/VITYHGFL",
+		"type": "webpage",
+		"abstract": "Foundations of Space-Time Theories was first published in 1977. Minnesota Archive Editions uses digital technology to make long-unavailable books once again accessible, and are published unaltered from the original University of Minnesota Press editions. The essays in this volume are based on the papers given at a conference on the philosophical aspects of the space-time theory held under the auspices of the Minnesota Center for Philosophy of Science.",
+		"language": "en",
+		"note": "ISBN: 9780816657520",
+		"title": "Foundations of Space-Time Theories (Minnesota Studies in the Philosophy of Science #8) | mitpressbookstore",
+		"URL": "https://mitpressbookstore.mit.edu/book/9780816657520",
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					1,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1977",
+					11,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/CQZAJX5L",
+		"type": "book",
+		"language": "en",
+		"number-of-pages": "459",
+		"publisher": "Univ. of Minnesota Press",
+		"publisher-place": "Minneapolis",
+		"source": "philsci-archive.pitt.edu",
+		"title": "Foundations of Space-Time Theories",
+		"URL": "https://philsci-archive.pitt.edu/27023/",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Earman",
+				"given": "John"
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark N."
+			},
+			{
+				"family": "Stachel",
+				"given": "John J."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					1,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1977"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/NSZB6JMN",
+		"type": "article-journal",
+		"abstract": "The notion of reduction in the natural sciences has been assimilated to the notion of inter-theoretical explanation. Many philosophers of science (following Nagel) have held that the apparently ontological issues involved in reduction should be replaced by analyses of the syntactic and semantic connections involved in explaining one theory on the basis of another. The replacement does not seem to have been especially successful, for we still lack a plausible account of inter-theoretical explanation. I attempt to provide one.",
+		"container-title": "Philosophy of science",
+		"issue": "3",
+		"page": "340–353",
+		"publisher": "Cambridge University Press",
+		"source": "Google Scholar",
+		"title": "On some patterns of reduction",
+		"URL": "https://doi.org/10.1086/288312",
+		"volume": "37",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					1,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1970"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/5JYNFUNS",
+		"type": "chapter",
+		"abstract": "A great many philosophers have thought it impossible that there should exist two distinct theories between which no possible evidence could discriminate. This doctrine, and more rarely its denial, have often been the cynosure of dogmas and disputes about conventions within physical theory, about simplicity, about measurement in quantum mechanics, and most recently, about radical translation. The list is long enough to make it important to know whether or not the doctrine is true. I shall argue that it is, indeed, not true.",
+		"container-title": "PSA 1970: In Memory of Rudolf Carnap Proceedings of the 1970 Biennial Meeting Philosophy of Science Association",
+		"DOI": "https://link.springer.com/chapter/10.1007/978-94-010-3142-4_19",
+		"ISBN": "978-94-010-3142-4",
+		"language": "en",
+		"page": "275-288",
+		"publisher": "Springer Netherlands",
+		"publisher-place": "Dordrecht",
+		"source": "Springer Link",
+		"title": "Theoretical Realism and Theoretical Equivalence",
+		"URL": "https://doi.org/10.1007/978-94-010-3142-4_19",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"editor": [
+			{
+				"family": "Buck",
+				"given": "Roger C."
+			},
+			{
+				"family": "Cohen",
+				"given": "Robert S."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					1,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1971"
 				]
 			]
 		}
