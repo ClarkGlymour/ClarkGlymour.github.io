@@ -135,8 +135,8 @@
 		"DOI": "10.2307/27757471",
 		"ISSN": "0073-2672",
 		"issue": "1",
-		"note": "publisher: University of California Press",
 		"page": "49-85",
+		"publisher": "University of California Press",
 		"source": "JSTOR",
 		"title": "Relativity and Eclipses: The British Eclipse Expeditions of 1919 and Their Predecessors",
 		"title-short": "Relativity and Eclipses",
@@ -254,6 +254,40 @@
 				[
 					"1982",
 					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/XV9YBUWI",
+		"type": "chapter",
+		"container-title": "Philosophical Problems of the Internal and External Worlds: Essays on the Philosophy of Adolf Grünbaum",
+		"ISBN": "978-0-8229-7034-7",
+		"language": "English",
+		"page": "461-488",
+		"publisher": "University of Pittsburgh Press",
+		"source": "muse.jhu.edu",
+		"title": "How Freud Left Science",
+		"URL": "https://muse.jhu.edu/pub/49/edited_volume/chapter/3950748",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
 				]
 			]
 		}
