@@ -443,33 +443,6 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5856333/items/VITYHGFL",
-		"type": "webpage",
-		"abstract": "Foundations of Space-Time Theories was first published in 1977. Minnesota Archive Editions uses digital technology to make long-unavailable books once again accessible, and are published unaltered from the original University of Minnesota Press editions. The essays in this volume are based on the papers given at a conference on the philosophical aspects of the space-time theory held under the auspices of the Minnesota Center for Philosophy of Science.",
-		"language": "en",
-		"note": "ISBN: 9780816657520",
-		"title": "Foundations of Space-Time Theories (Minnesota Studies in the Philosophy of Science #8) | mitpressbookstore",
-		"URL": "https://mitpressbookstore.mit.edu/book/9780816657520",
-		"accessed": {
-			"date-parts": [
-				[
-					"2026",
-					1,
-					30
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"1977",
-					11,
-					25
-				]
-			]
-		}
-	},
-	{
 		"id": "http://zotero.org/users/5856333/items/CQZAJX5L",
 		"type": "book",
 		"language": "en",
