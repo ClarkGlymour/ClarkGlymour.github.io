@@ -592,5 +592,739 @@
 				]
 			]
 		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/922T3WA4",
+		"type": "article-journal",
+		"container-title": "The Journal of Philosophy",
+		"DOI": "10.2307/2024947",
+		"ISSN": "0022-362X",
+		"issue": "21",
+		"page": "744-751",
+		"publisher": "Journal of Philosophy, Inc.",
+		"source": "JSTOR",
+		"title": "Determinism, Ignorance, and Quantum Mechanics",
+		"URL": "https://www.jstor.org/stable/2024947",
+		"volume": "68",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1971"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/GZKGNTEN",
+		"type": "article-journal",
+		"container-title": "Synthese",
+		"DOI": "10.1007/BF00540149",
+		"ISSN": "1573-0964",
+		"issue": "1",
+		"journalAbbreviation": "Synthese",
+		"language": "en",
+		"page": "195-218",
+		"source": "Springer Link",
+		"title": "Topology, cosmology and convention",
+		"URL": "https://doi.org/10.1007/BF00540149",
+		"volume": "24",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1972",
+					3,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/XG6YSKDM",
+		"type": "article-journal",
+		"abstract": "“It ain't nuthin' until I call it.”Bill Guthrie, UmpireNumerous criticisms of Adolf Grünbaum's account of conventions in physics have been published ([1], [2], [3], [4], [13]), and he has replied to most of them ([6], [8]). Nonetheless, there seem to me to be good reasons for offering further criticism. In the first place Grünbaum's philosophy seems to me at least partly an extrapolation of one aspect of the views on conventions developed by Reichenbach and others. Since I think many of the issues which Reichenbach attempted to settle in his various discussions of conventions in physics are genuine and important, and I also think that those aspects of his views on which Grünbaum has focused are among the least satisfactory, it seems important to suggest questions and answers about conventions in physics which may develop more satisfactory Reichenbachian themes. Secondly, Grünbaum's philosophy centers on a distinction, that between extrinsic and intrinsic properties and relations, which has never been made satisfactorily clear either by Grünbaum or by his critics. Until it is clarified we will remain unsure of just what he is claiming and why we should think it true or think it false. Finally, Grünbaum's replies to his critics, especially his most recent reply, [9], involve unusually important claims which fail to be buttressed by the arguments he gives. I have in mind such claims as that we can learn something important about the ontological status of properties and relations by examining descriptions of them, that on (what I take to be) the most straightforward and literal interpretation, the general theory of relativity is inconsistent, and that the foremost advocates of geometrodynamics, Clifford and Wheeler, were and are enmeshed in contradiction. My own view is that all of these claims are dubious or false, but I shall be less concerned with establishing their falsity than with discrediting the arguments offered for them.",
+		"container-title": "Philosophy of Science",
+		"DOI": "10.1086/288454",
+		"ISSN": "0031-8248, 1539-767X",
+		"issue": "3",
+		"language": "en",
+		"page": "322-340",
+		"source": "Cambridge University Press",
+		"title": "Physics by Convention",
+		"URL": "https://www.cambridge.org/core/journals/philosophy-of-science/article/abs/physics-by-convention/2285EF85F626FA78E360CF9D671754D4",
+		"volume": "39",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1972",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/V3J6LMTM",
+		"type": "chapter",
+		"abstract": "Whether or not we should think psychoanalysis a reasonable theory, or even a theory at all in the usual sense, depends on what we think to be the evidence for and against it, and that, in turn, depends on how we think theory and evidence go together generally. On one very influential view of scientific testing what is required in order to obtain evidence for or against psychoanalysis, as with any other theory, is that we deduce from it some claim regarding the correlation of two or more properties – which are of a kind that can be identified without using any psychoanalytic hypotheses – and then subject this claim to the rigors of statistical hypothesis testing. This strategy has been used to test psychoanalysis with very mixed and unpromising results. For several reasons, analysts tend to oppose evaluating their theory solely on the basis of such evidence. In the first place, they claim that the experimentalists' bias for easily manipulated and easily controlled factors results in an undue emphasis on testing psychoanalytic hypotheses that are peripheral to the main tenets of the theory; even worse, the hypotheses tested by experimentalists are often no more than surrogates for the genuine article, and inferences from the falsity of such ersatz hypotheses to the falsity of psychoanalysis are not legitimate.",
+		"container-title": "Philosophical Essays on Freud",
+		"DOI": "10.1017/CBO9780511554636.003",
+		"ISBN": "978-0-521-28425-7",
+		"page": "12-31",
+		"publisher": "Cambridge University Press",
+		"publisher-place": "Cambridge",
+		"source": "Cambridge University Press",
+		"title": "Freud, Kepler, and the clinical evidence",
+		"URL": "https://www.cambridge.org/core/books/philosophical-essays-on-freud/freud-kepler-and-the-clinical-evidence/59B7161048B32F062DAADF475FFCC9C3",
+		"editor": [
+			{
+				"family": "Hopkins",
+				"given": "James"
+			},
+			{
+				"family": "Wollheim",
+				"given": "Richard"
+			}
+		],
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1982"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/YQ9FTDSV",
+		"type": "article-journal",
+		"container-title": "The Journal of Philosophy",
+		"DOI": "10.2307/2025011",
+		"ISSN": "0022-362X",
+		"issue": "14",
+		"page": "403-426",
+		"publisher": "Journal of Philosophy, Inc.",
+		"source": "JSTOR",
+		"title": "Relevant Evidence",
+		"URL": "https://www.jstor.org/stable/2025011",
+		"volume": "72",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1975"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/DQE3FMDS",
+		"type": "article-journal",
+		"container-title": "The Journal of Philosophy",
+		"DOI": "10.2307/2025820",
+		"ISSN": "0022-362X",
+		"issue": "18",
+		"page": "635-637",
+		"publisher": "Journal of Philosophy, Inc.",
+		"source": "JSTOR",
+		"title": "To Save the Noumena",
+		"URL": "https://www.jstor.org/stable/2025820",
+		"volume": "73",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1976"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/4HHLBUF9",
+		"type": "article-journal",
+		"abstract": "//static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS0045509100014569/resource/name/firstPage-S0045509100014569a.jpg",
+		"container-title": "Canadian Journal of Philosophy",
+		"DOI": "10.1080/00455091.1976.10716988",
+		"ISSN": "0045-5091, 1911-0820",
+		"issue": "1",
+		"language": "en",
+		"page": "161-175",
+		"source": "Cambridge University Press",
+		"title": "Jeffrey Bub The Interpretation of Quantum Mechanics, Reidel (Boston, 1974)",
+		"URL": "https://www.cambridge.org/core/journals/canadian-journal-of-philosophy/article/abs/jeffrey-bub-the-interpretation-of-quantum-mechanics-reidel-boston-1974/AE34B11B54EF9EFB943997F965BFEBCF",
+		"volume": "6",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1976",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/PBG5YTJY",
+		"type": "chapter",
+		"abstract": "Looking back, Reichenbach’s views about knowledge and meaning seem in most respects entirely typical of those of empiricists of the day. His epistemological differences with Carnap, C. I. Lewis and others seem far less significant than the agreements they shared. If Reichenbach is distinctive, it is because his epistemological concerns seem to have had their source in careful analyses of innovations in physical theory, and because his developing views were constantly buttressed with physical examples. It is this interplay of epistemological doctrine and scientific theory that makes Reichenbach’s work especially appealing, vivid and forceful. Reichenbach’s epistemological views are, by now, unpopular enough that they scarcely need criticism, and even though I will criticize them that is not my chief purpose. My purpose is to provide a perspective on the interaction of Reichenbach’s epistemological doctrines and his analyses of scientific inference, a perspective which I hope will reveal something both new and true about the problems that motivated Reichenbach’s work. It is exactly because Reichenbach’s views are in many ways typical of empiricism present and past that the enterprise is worthwhile; the points I shall make about Reichenbach could equally be made about Carnap, Lewis, or any number of contemporary writers.",
+		"container-title": "Hans Reichenbach: Logical Empiricist",
+		"DOI": "10.1007/978-94-009-9404-1_6",
+		"ISBN": "978-94-009-9404-1",
+		"language": "en",
+		"page": "221-237",
+		"publisher": "Springer Netherlands",
+		"publisher-place": "Dordrecht",
+		"source": "Springer Link",
+		"title": "Reichenbach’s Entanglements",
+		"URL": "https://doi.org/10.1007/978-94-009-9404-1_6",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"editor": [
+			{
+				"family": "Salmon",
+				"given": "Wesley C."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1979"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/SPFIB2KX",
+		"type": "article-journal",
+		"abstract": "Simon Kochen and Ernst Specker's well-known argument ([6]) against hidden variable theories for quantum mechanics is also an argument against the possibility of quantum systems having, simultaneously, precise values for all of the dynamical quantities associated with such systems. Devices for defeating the argument were in the literature even before its publication, but recently Arthur Fine has raised a new difficulty ([4]). Fine points out that Kochen and Specker's argument requires the following principles:Sum Rule: At all times, in all states, the value of the quantity with operator A + B is the sum of the values of the quantity with operator A and the quantity with operator B, provided A, B commute.Product Rule: At all times, in all states, the value of the quantity with operator AB is the product of the values of the quantities with operators A and B, provided A, B commute.",
+		"container-title": "Philosophy of Science",
+		"DOI": "10.1086/288725",
+		"ISSN": "0031-8248, 1539-767X",
+		"issue": "1",
+		"language": "en",
+		"page": "86-94",
+		"source": "Cambridge University Press",
+		"title": "The Sum Rule is Well-Confirmed",
+		"URL": "https://www.cambridge.org/core/journals/philosophy-of-science/article/abs/sum-rule-is-wellconfirmed/7A30F57FC9A744A350B6598E244854D0",
+		"volume": "44",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1977",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/HFPCX5AV",
+		"type": "article-journal",
+		"container-title": "Noûs",
+		"DOI": "10.2307/2214764",
+		"ISSN": "0029-4624",
+		"issue": "3",
+		"page": "227-251",
+		"publisher": "Wiley",
+		"source": "JSTOR",
+		"title": "The Epistemology of Geometry",
+		"URL": "https://www.jstor.org/stable/2214764",
+		"volume": "11",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1977"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/25BGDHJM",
+		"type": "article-journal",
+		"abstract": "The relation that holds between two singular sentences just if one of them can figure in an acceptable deductive nomological (DN) explanation of the other is not symmetric. As Sylvain Bromberger ([1]) pointed out some years ago, a sentence giving the height of a flagpole can figure in a DN explanation of a sentence specifying the length of the flagpole's shadow, but interchanging the explanans and the explanandum does not result in an explanation even though it may result in a valid argument. Recently Evan Jobe ([2]) has offered an ingenious account of such asymmetries, one which if successful would permit their characterization entirely within the framework of the DN model. The purpose of this note is to show that despite its attractiveness Jobe's idea will not work.",
+		"container-title": "Philosophy of Science",
+		"DOI": "10.1086/288783",
+		"ISSN": "0031-8248, 1539-767X",
+		"issue": "1",
+		"language": "en",
+		"page": "118-119",
+		"source": "Cambridge University Press",
+		"title": "Two Flagpoles are More Paradoxical than One",
+		"URL": "https://www.cambridge.org/core/journals/philosophy-of-science/article/abs/two-flagpoles-are-more-paradoxical-than-one/7D57ABF489787EC8BD55982D585B210B",
+		"volume": "45",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1978",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/THNFD2UE",
+		"type": "article-journal",
+		"container-title": "Noûs",
+		"DOI": "10.2307/2214888",
+		"ISSN": "0029-4624",
+		"issue": "1",
+		"page": "31-50",
+		"publisher": "Wiley",
+		"source": "JSTOR",
+		"title": "Explanations, Tests, Unity and Necessity",
+		"URL": "https://www.jstor.org/stable/2214888",
+		"volume": "14",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1980"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/ZSZRWQTF",
+		"type": "article-journal",
+		"container-title": "The Journal of Philosophy",
+		"ISSN": "0022-362X",
+		"issue": "11",
+		"page": "691-699",
+		"publisher": "Journal of Philosophy, Inc.",
+		"source": "JSTOR",
+		"title": "Bootstraps and Probabilities",
+		"URL": "https://www.jstor.org/stable/2025985",
+		"volume": "77",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1980"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/YHBMV48K",
+		"type": "article-journal",
+		"abstract": "An attractive and apparently indestructible idea about confirmation is that a hypothesis h is confirmed by evidence e if h is a logical consequence of e, or of h and the right sort of other stuff. This idea was advanced in various ways by Ayer (1936), Hempel (1965), Carnap (1959), and still recurs constantly in discussions of confirmation; recently for example, in Schlesinger (1976) and Horwich (1978). The typical modern version of the idea goes like this: a sentence h is confirmed by a sentence e with respect to a theory T if e is true and h & T is consistent and h & T entails e (hereafter, h & T ⊢ e) but T does not entail e (hereafter, T ⊬ e).",
+		"container-title": "Philosophy of Science",
+		"DOI": "10.1086/288935",
+		"ISSN": "0031-8248, 1539-767X",
+		"issue": "2",
+		"language": "en",
+		"page": "322-325",
+		"source": "Cambridge University Press",
+		"title": "Discussion: Hypothetico-Deductivism is Hopeless",
+		"title-short": "Discussion",
+		"URL": "https://www.cambridge.org/core/journals/philosophy-of-science/article/abs/discussion-hypotheticodeductivism-is-hopeless/E7882F0BF7676CE76F6614136537D9DF",
+		"volume": "47",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1980",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/9Z2A7UAN",
+		"type": "article-journal",
+		"abstract": "In “The Epistemology of Geometry” Glymour proposed a necessary structural condition for the synonymy of two space-time theories. David Zaret has recently challenged this proposal, by arguing that Newtonian gravitational theory with a flat, non-dynamic connection (FNGT) is intuitively synonymous with versions of the theory using a curved dynamical connection (CNGT), even though these two theories fail to satisfy Glymour's proposed necessary condition for synonymy.Zaret allowed that if FNGT and CNGT were not equally well (bootstrap) tested by the relevant phenomena, the two theories would in fact not be synonymous. He argued, however, that when electrodynamic phenomena are considered, the two theories are equally well tested.We show that it is not FNGT and CNGT which are equally well tested when the electrodynamic phenomena are considered, but only suitable extensions of FNGT and CNGT. Thus, there is good reason to consider FNGT and CNGT to be non-synonymous. We further show that the two extensions of FNGT and CNGT which are equally well tested when electrodynamic phenomena are considered (and which could be considered intuitively synonymous) not only satisfy Glymour's original proposed necessary condition for the synonymy of spacetime theories, they satisfy a plausible stronger condition as well.",
+		"container-title": "Philosophy of Science",
+		"DOI": "10.1086/289071",
+		"ISSN": "0031-8248, 1539-767X",
+		"issue": "3",
+		"language": "en",
+		"page": "463-477",
+		"source": "Cambridge University Press",
+		"title": "Space-Time and Synonymy",
+		"URL": "https://www.cambridge.org/core/journals/philosophy-of-science/article/abs/spacetime-and-synonymy/FB6A0BC956975B880CA8A2802BF98823",
+		"volume": "49",
+		"author": [
+			{
+				"family": "Spirtes",
+				"given": "Peter"
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1982",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/LVWTLRL7",
+		"type": "article-journal",
+		"container-title": "Synthese",
+		"ISSN": "0039-7857",
+		"issue": "2",
+		"page": "169-180",
+		"publisher": "Springer",
+		"source": "JSTOR",
+		"title": "Conceptual Scheming or Confessions of a Metaphysical Realist",
+		"URL": "https://www.jstor.org/stable/20115742",
+		"volume": "51",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1982"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/324ZFS3P",
+		"type": "chapter",
+		"abstract": "Wesley Salmon’s account of causal inference and causal explanation is, very briefly, as follows: causality is a feature of processes, a feature they have in virtue of being spatio-temporally connected and of bearing a mark or marks (that is, a property the process acquires in virtue of an interaction with another process) from one space-time region to another, later one, without benefit of subsequent interaction. (“Interaction” is not supposed to be a causal primitive: two processes interact if they occupy a common space-time region — that is, if they intersect — and satisfy a statistical condition.1) The explanation of particular occurrences is always causal explanation, but Salmon allows that the concern of science is seldom to explain particular occurrences, and more often is to explain regularities. I am unsure what form Salmon supposes causal explanations, whether of particular occurrences or of patterns, to have, and I am likewise unsure how the emphasis in his more recent essays on causal explanation and the irreducibility of causal relations to statistical relations combines with his earlier emphasis on statistical explanation as a kind of sui generis form. I will simply construe his views on these matters in what I take to be both the most clear-cut and the most generous way: there is no such thing as statistical explanation per se, merely statistical evidence for (and, perhaps, statistical aspects of) causal explanations. The causal explanation of a particular event consists in the description of any interesting fragment of the causal history leading up to the event.",
+		"container-title": "What? Where? When? Why? Essays on Induction, Space and Time, Explanation",
+		"DOI": "10.1007/978-94-009-7731-0_8",
+		"ISBN": "978-94-009-7731-0",
+		"language": "en",
+		"page": "179-191",
+		"publisher": "Springer Netherlands",
+		"publisher-place": "Dordrecht",
+		"source": "Springer Link",
+		"title": "Causal Inference and Causal Explanation",
+		"URL": "https://doi.org/10.1007/978-94-009-7731-0_8",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"editor": [
+			{
+				"family": "McLaughlin",
+				"given": "Robert"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1982"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/A3TPAFLC",
+		"type": "article-journal",
+		"abstract": "Scientific arguments often attribute the credit or blame for particular experimental or observational results to fragments of theories rather than to the whole of them. The thesis of Theory and Evidence (Glymour 1980) is that there are structural criteria that account for at least part of the distribution of credit and blame; the book also attempts a tentative formal characterization of one structural criterion. David Christensen (1983) has produced a series of counterexamples which show that the formal characterization is untenable. The question remains whether the failure is due to an oversight in the formal theory or to the falsity of the very idea that there are structural criteria for evidential relevance. Since the counterexamples are uniformly eliminated by a single formal principle, I incline to the first answer.",
+		"container-title": "Philosophy of Science",
+		"DOI": "10.1086/289143",
+		"ISSN": "0031-8248, 1539-767X",
+		"issue": "4",
+		"language": "en",
+		"page": "626-629",
+		"source": "Cambridge University Press",
+		"title": "Revisions of Bootstrap Testing",
+		"URL": "https://www.cambridge.org/core/journals/philosophy-of-science/article/abs/revisions-of-bootstrap-testing/5B05A27702E05BC579B0B5EF087F25B3",
+		"volume": "50",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1983",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5856333/items/9HBG4LE9",
+		"type": "chapter",
+		"abstract": "If we knew the probabilities of all things, good thinking would be apt calculation, and the proper subject of theories of good reasoning would be confined to the artful and efficient assembly of judgments in accordance with the calculus of probabilities. In fact, we know the probabilities of very few things, and to understand inductive competence we must construct theories that will explain how preferences among hypotheses may be established in the absence of such knowledge. More than that, we must also understand how the procedures for establishing preferences in the absence of knowledge of probabilities combine with fragmentary knowledge",
+		"container-title": "Testing Scientific Theories",
+		"edition": "NED - New edition",
+		"ISBN": "978-0-8166-1158-4",
+		"page": "3-26",
+		"publisher": "University of Minnesota Press",
+		"source": "JSTOR",
+		"title": "“On Testing and Evidence”",
+		"URL": "https://www.jstor.org/stable/10.5749/j.cttts94f.3",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			}
+		],
+		"editor": [
+			{
+				"family": "John",
+				"given": "Earman"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1983"
+				]
+			]
+		}
 	}
 ]
